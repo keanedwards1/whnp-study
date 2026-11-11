@@ -1,0 +1,265 @@
+@import "tailwindcss";
+
+:root {
+  --header-h: 3.5rem;
+  --bg: #f2f5fa;
+  --surface: #ffffff;
+  --surface-2: #f7f9fc;
+  --text: #0e1a2f;
+  --muted: #586478;
+  --line: #dbe2ed;
+  --accent: #2457d6;
+  --accent-strong: #1a3fa3;
+  --accent-text: #ffffff;
+  --accent-soft: #e8eefc;
+  --hit: #127a48;
+  --hit-soft: #e1f3ea;
+  --miss: #c0392b;
+  --miss-soft: #fbe8e5;
+  --hero-bg: #1a3fa3;
+  --shadow: 0 1px 2px rgb(15 27 52 / 0.05), 0 6px 20px rgb(15 27 52 / 0.06);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0a1020;
+    --surface: #111a2e;
+    --surface-2: #0e1626;
+    --text: #e8edf7;
+    --muted: #94a0b5;
+    --line: #223052;
+    --accent: #7ea3ff;
+    --accent-strong: #a9c1ff;
+    --accent-text: #0a1633;
+    --accent-soft: #16254a;
+    --hit: #4cc98a;
+    --hit-soft: #11302a;
+    --miss: #f08a7a;
+    --miss-soft: #3a1c1a;
+    --hero-bg: #16295f;
+    --shadow: 0 1px 2px rgb(0 0 0 / 0.3), 0 6px 20px rgb(0 0 0 / 0.25);
+  }
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-text: var(--text);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-strong: var(--accent-strong);
+  --color-accent-soft: var(--accent-soft);
+  --color-hit: var(--hit);
+  --color-hit-soft: var(--hit-soft);
+  --color-miss: var(--miss);
+  --color-miss-soft: var(--miss-soft);
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+  --font-serif: var(--font-source-serif), Georgia, serif;
+}
+
+html {
+  scroll-padding-top: calc(var(--header-h) + 1rem);
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  line-height: 1.55;
+  font-feature-settings: "cv11", "ss01";
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3 {
+  letter-spacing: -0.015em;
+}
+
+/* Page gutter: full viewport width, fluid side padding. */
+.gutter {
+  padding-inline: clamp(1rem, 3.5vw, 3rem);
+}
+
+@layer components {
+  /* ---------- surfaces ---------- */
+  .card {
+    @apply rounded-[2px] border border-line bg-surface p-5 sm:p-6;
+    box-shadow: var(--shadow);
+  }
+  .eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.08em] text-muted;
+  }
+  .link {
+    @apply text-accent underline-offset-2 hover:underline;
+  }
+
+  /* ---------- buttons ---------- */
+  .btn-primary,
+  .btn-secondary,
+  .btn-hit,
+  .btn-miss {
+    @apply inline-flex min-h-11 items-center justify-center gap-2 rounded-[2px] px-5 py-2.5 text-[0.95rem] font-semibold transition focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent active:scale-[0.985] disabled:pointer-events-none disabled:opacity-40;
+  }
+  .btn-primary {
+    background: var(--accent);
+    color: var(--accent-text);
+  }
+  .btn-primary:hover {
+    background: var(--accent-strong);
+  }
+  .btn-secondary {
+    @apply border border-line bg-surface hover:border-accent;
+  }
+  .btn-hit {
+    @apply border-2 border-hit text-hit;
+  }
+  .btn-hit:hover {
+    background: var(--hit-soft);
+  }
+  .btn-miss {
+    @apply border-2 border-miss text-miss;
+  }
+  .btn-miss:hover {
+    background: var(--miss-soft);
+  }
+
+  /* ---------- selection controls ---------- */
+  .chip {
+    @apply rounded-[2px] border border-line bg-surface px-3.5 py-1.5 text-sm font-medium transition hover:border-accent;
+  }
+  .chip-on {
+    @apply border-accent text-accent;
+    background: var(--accent-soft);
+  }
+  .choice {
+    @apply block cursor-pointer rounded-[2px] border border-line bg-surface p-3.5 transition hover:border-accent;
+  }
+  .choice-on {
+    @apply border-accent;
+    background: var(--accent-soft);
+  }
+
+  /* Dashboard tiles (mode picker, topic picker) */
+  .tile {
+    @apply relative flex w-full flex-col rounded-[2px] border border-line bg-surface p-4 text-left transition hover:border-accent focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent;
+  }
+  .tile-on {
+    @apply border-accent;
+    background: var(--accent-soft);
+    box-shadow: inset 0 0 0 1px var(--accent);
+  }
+  .check {
+    @apply grid h-5 w-5 shrink-0 place-items-center rounded-[2px] border border-line bg-surface text-[0.7rem] font-bold text-transparent;
+  }
+  .tile-on .check {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: var(--accent-text);
+  }
+
+  /* ---------- stats ---------- */
+  .stat {
+    @apply rounded-[2px] border border-line bg-surface px-5 py-4;
+    box-shadow: var(--shadow);
+  }
+  .stat-num {
+    @apply font-serif text-3xl font-semibold tabular-nums tracking-tight;
+  }
+
+  /* ---------- hero ---------- */
+  .hero {
+    @apply relative overflow-hidden rounded-[2px] p-6 text-white sm:p-10;
+    background: var(--hero-bg);
+  }
+  .btn-hero {
+    @apply inline-flex min-h-12 items-center justify-center rounded-[2px] bg-white px-6 py-3 text-base font-semibold text-[#0f2557] transition hover:bg-[#eef3ff] active:scale-[0.985];
+  }
+  .btn-hero-ghost {
+    @apply inline-flex min-h-12 items-center justify-center rounded-[2px] border border-white/40 px-6 py-3 text-base font-semibold text-white transition hover:bg-white/10;
+  }
+
+  /* ---------- test-taking screens ---------- */
+  .testbar {
+    @apply sticky z-10 flex items-center gap-4 rounded-[2px] border border-line bg-surface px-4 py-3;
+    top: calc(var(--header-h) + 0.75rem);
+    box-shadow: var(--shadow);
+  }
+  .stem {
+    @apply font-serif text-[1.3rem] leading-[1.6] sm:text-[1.5rem];
+    max-width: 62ch;
+  }
+  .stem-quote {
+    @apply font-semibold whitespace-pre-line;
+  }
+
+  /* Answer options (A / B / C) */
+  .option {
+    @apply flex w-full min-h-14 items-start gap-4 rounded-[2px] border-2 px-4 py-3.5 text-left text-[1.05rem] leading-snug transition focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent disabled:cursor-default;
+  }
+  .option-letter {
+    @apply grid h-8 w-8 shrink-0 place-items-center rounded-[2px] border-2 border-line text-sm font-bold transition;
+  }
+  .option-idle {
+    @apply border-line bg-surface hover:border-accent;
+  }
+  .option-sel {
+    @apply border-accent;
+    background: var(--accent-soft);
+  }
+  .option-sel .option-letter {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: var(--accent-text);
+  }
+  .option-right {
+    @apply border-hit;
+    background: var(--hit-soft);
+  }
+  .option-right .option-letter {
+    background: var(--hit);
+    border-color: var(--hit);
+    color: #fff;
+  }
+  .option-wrong {
+    @apply border-miss;
+    background: var(--miss-soft);
+  }
+  .option-wrong .option-letter {
+    background: var(--miss);
+    border-color: var(--miss);
+    color: #fff;
+  }
+  .option-dim {
+    @apply border-line opacity-55;
+  }
+
+  /* Question navigator */
+  .qnum {
+    @apply grid h-10 place-items-center rounded-[2px] border border-line bg-surface text-sm font-medium tabular-nums transition hover:border-accent;
+  }
+  .qnum-answered {
+    background: var(--accent-soft);
+    border-color: transparent;
+    color: var(--accent-strong);
+  }
+  .qnum-current {
+    @apply border-2 border-accent font-bold;
+  }
+  .qnum-flag {
+    box-shadow: inset 0 -3px 0 0 #e8a317;
+  }
+
+  .bar {
+    @apply h-2 overflow-hidden rounded-[2px];
+    background: var(--line);
+  }
+  .bar > span {
+    @apply block h-full rounded-[2px];
+    background: var(--accent);
+    transition: width 0.3s ease;
+  }
+}

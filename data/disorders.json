@@ -1,0 +1,3215 @@
+{
+  "source": {
+    "title": "Disorder Tables",
+    "documentId": "1e2XKVQViBwXsiqxJsybl4pCcb7nXXgq5xnWPfunsnP0",
+    "revisionId": "AHj4eMSsL4LFrUYyvK72jqwZRFmOlNIacXMOU5unrg14mKzoXu8xbrDPc5hrxWrEvzkf6Zlv3d2LKfxnuPEi3wshiJjWaNh3jXxKlSPZ_kg",
+    "extractedAt": "2026-11-11T15:27:10+00:00"
+  },
+  "sections": [
+    {
+      "id": "upper-respiratory-disorders",
+      "title": "Upper Respiratory Disorders",
+      "columns": [
+        "Condition",
+        "Definition / Overview",
+        "Etiology",
+        "Risk Factors / Epidemiology",
+        "Pathophysiology",
+        "Clinical Presentation",
+        "Diagnostics",
+        "Treatment / Management",
+        "Patient Education / Prevention",
+        "Complications"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "upper-respiratory-disorders--uri-common-cold",
+          "condition": "URI (Common Cold)",
+          "cells": {
+            "Condition": "URI (Common Cold)",
+            "Definition / Overview": "Self-limited irritation & swelling of upper airways",
+            "Etiology": "Rhinovirus (most common), others: influenza, adenovirus, enterovirus, RSV; 15% bacterial (GAS pharyngitis)",
+            "Risk Factors / Epidemiology": "Close child contact, asthma, allergic rhinitis, smoking, immunocompromised, anatomical anomalies",
+            "Pathophysiology": "Droplet inhalation → onset 10–12h → last 7-10 d up to 3 weeks →inflammation → vasodilation & ↑ permeability → nasal congestion/rhinorrhea",
+            "Clinical Presentation": "Cough, runny nose, sneezing, sore throat, nasal congestion, headache, malaise, myalgias, no/low fever, facial pressure",
+            "Diagnostics": "Clinical dx; no routine tests; rapid strep if suspected",
+            "Treatment / Management": "Symptom relief: decongestants, antihistamines (1st gen for sneezing), antitussives (limited), bronchodilator if wheezing, antipyretics if fever; No antibiotics",
+            "Patient Education / Prevention": "Hand hygiene, cough etiquette, avoid sharing, balanced diet, immunizations, balanced diet",
+            "Complications": "Rare; usually self-limited\n\nAntibiotic caution: \n-Fluoroquinolones = tendon rupture, QT prolong, photosen\n-macrolides= QT prolong\n-tetracyclines & sulfonamides=  photosensitivity"
+          },
+          "images": []
+        },
+        {
+          "id": "upper-respiratory-disorders--allergic-rhinitis",
+          "condition": "Allergic Rhinitis",
+          "cells": {
+            "Condition": "Allergic Rhinitis",
+            "Definition / Overview": "IgE-mediated nasal inflammation; seasonal or perennial",
+            "Etiology": "Pollens, fungi, dust mites, dander, occupational allergens",
+            "Risk Factors / Epidemiology": "10–30% adults; often w/ asthma/eczema",
+            "Pathophysiology": "IgE response to allergen → histamine release",
+            "Clinical Presentation": "Sneezing, watery rhinorrhea, congestion, itchy/watery eyes, fatigue\nSalute, shiners, dennie-morgan lines, boggy/pal turbinates",
+            "Diagnostics": "Clinical diagnosis ; allergy skin test (preferred), IgE levels",
+            "Treatment / Management": "Allergy Avoidance!!\nFirst-line: intranasal steroids (nasonex, fluticasone) ; oral antihistamines, decongestants; referral if persistent despite treatment",
+            "Patient Education / Prevention": "Allergy diary, allergen avoidance, safe med use, proper nasal spray technique, hydration and  handwashing",
+            "Complications": "↓ QoL, poor sleep"
+          },
+          "images": []
+        },
+        {
+          "id": "upper-respiratory-disorders--nonallergic-vasomotor-rhinitis",
+          "condition": "Nonallergic (Vasomotor) Rhinitis",
+          "cells": {
+            "Condition": "Nonallergic (Vasomotor) Rhinitis",
+            "Definition / Overview": "Non-immune nasal inflammation;",
+            "Etiology": "Irritants (cold air, odors, weather, stress, foods, meds)",
+            "Risk Factors / Epidemiology": "Year-round; no immune basis",
+            "Pathophysiology": "Non-IgE; vasomotor instability",
+            "Clinical Presentation": "Perennial nasal congestion, watery discharge; no itching; PE: erythematous nasal mucosa - how it is differentiated from allergic rhinitis",
+            "Diagnostics": "Clinical",
+            "Treatment / Management": "Avoid triggers; decongestants; saline irrigation; intranasal steroids",
+            "Patient Education / Prevention": "Avoid chronic decongestant use; avoid triggers",
+            "Complications": "Sleep disturbance, ↓ QoL"
+          },
+          "images": []
+        },
+        {
+          "id": "upper-respiratory-disorders--rhinosinusitis",
+          "condition": "Rhinosinusitis",
+          "cells": {
+            "Condition": "Rhinosinusitis",
+            "Definition / Overview": "Inflammation of paranasal sinuses + \nnasal mucosa\n\nViral = s/sx < 4 weeks, rhino, flu, paraflu\n\nBacterial = s/sx 4-12 weeks, secondary bacterial infection AFTER viral illness (S. pneumonia) \n\nAllergic = rhinitis symptoms WITH sore throat and cough \n\nFungal= rapidly progressive, affects immunocomp + uncontrolled diabetes -> URGENT ENT referral",
+            "Etiology": "Viral (most common), bacterial (S. pneumo, H. flu, M. catarrhalis), fungal in immunocompromised",
+            "Risk Factors / Epidemiology": "~30M/yr in US; women > men; 45–64y; smoking, allergies, dental disease, air travel, immunodef, dental disease.\n\nRhinovirus & parainfluenza -> fall late spring\nRSV, coronavirus -> winter,spring \nEnteroviruses -> summer/ year round \nAdenoviruses -> outbreaks",
+            "Pathophysiology": "Viral/bacterial infection → nose blowing pushes infected secretions into sinuses → impaired drainage/ciliary function causes nasal obstruction and prolonged",
+            "Clinical Presentation": "Congestion, purulent rhinorrhea, postnasal drip, facial pain/pressure, dental pain, halitosis, fever, hyposmia, fatigue, hyposomia/anosmia\n\nFrontal = pain/tenderness lower forehead \nMaxillary = pain over cheeks, teeth, worse leaning forward\nEthmoid= pain over bridge of nose, behind eye \nSphenoid = retro-orbital pain",
+            "Diagnostics": "Clinical; CT(no contrast)  if complicated; MRI for soft tissue/intracranial complications; no routine labs",
+            "Treatment / Management": "Viral: supportive (NSAIDs, saline, decongestants); \n\nBacterial: amox-clav 1st line, doxy if PCN allergy;\n\n ENT referral if persistent (after 2nd course of abx)  or severe, or immunocomp with suspected fungal \n\nHospitalize if IV antibiotics & surgical consult",
+            "Patient Education / Prevention": "Correct nasal steroid use, avoid sniffing, hand hygiene, smoking cessation, no antibiotics for viral, followup in 2-3 days \nWarn SE for 1st gen antihistamines, NSAIDs, decongestants/ cough suppressants \n\nEnviro control, increased humidified air and fluid intake, warm compress for pressure relief, avoid swimming/ diving, smoking cessation, freq handwashing",
+            "Complications": "Bacterial Specific: Osteomyelitis, orbital infection, visual loss, intracranial abscess, meningitis"
+          },
+          "images": []
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "eye-disorders",
+      "title": "Eye Disorders",
+      "columns": [
+        "Condition",
+        "Definition / Overview",
+        "Etiology",
+        "Clinical Presentation",
+        "Diagnostics",
+        "Treatment",
+        "Patient Education",
+        "Complications"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "eye-disorders--hordeolum-stye",
+          "condition": "Hordeolum (Stye)",
+          "cells": {
+            "Condition": "Hordeolum (Stye)",
+            "Definition / Overview": "Inflamed eyelid bump (internal or external)",
+            "Etiology": "S. aureus infection of gland",
+            "Clinical Presentation": "Painful, red, swollen eyelid; tearing, gritty sensation, photophobia",
+            "Diagnostics": "Clinical = eyelid red/swollen, conjunctiva injected, cornea/pupil normal, vision normal",
+            "Treatment": "Warm compresses ( 5min several times/day), hygiene; avoid squeezing",
+            "Patient Education": "No makeup/contacts; good hygiene; no squeezing",
+            "Complications": "If persistent >1–2 wks → refer"
+          },
+          "images": [
+            {
+              "file": "/images/eye-disorders-hordeolum-stye-1.jpg",
+              "alt": "Styes Altoona | Chalazia Brookville PA | Laurel Eye Clinic Duncansville",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "eye-disorders--chalazion",
+          "condition": "Chalazion",
+          "cells": {
+            "Condition": "Chalazion",
+            "Definition / Overview": "Chronic granulomatous inflammation of Meibomian gland",
+            "Etiology": "Blocked gland",
+            "Clinical Presentation": "Little to no redness; Painless, rubbery eyelid nodule; non-tender,",
+            "Diagnostics": "Clinical = lesion on conjunctival side, cornea/pupil/vision normal",
+            "Treatment": "Warm compresses; refer if >4 wks or recurrent",
+            "Patient Education": "Avoid touching eye; hygiene",
+            "Complications": "Rare, but can recur"
+          },
+          "images": [
+            {
+              "file": "/images/eye-disorders-chalazion-1.jpg",
+              "alt": "Stye and Chalazion – North Texas Eye Center",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "eye-disorders--blepharitis",
+          "condition": "Blepharitis",
+          "cells": {
+            "Condition": "Blepharitis",
+            "Definition / Overview": "Inflammation of eyelid margins leaving scales on eye lashes",
+            "Etiology": "Staph or seborrheic dermatitis",
+            "Clinical Presentation": "Itchy/burning lids, crusting, “pink eye”, redness, tearing, photophobia, transient blurred vision",
+            "Diagnostics": "Clinical (scales on lashes + redness)\ncornea/pupil/vision normal",
+            "Treatment": "Eyelid hygiene (baby shampoo/olive oil wipes, warm compress) ; topical antibiotics (erythro/bacitracin); oral doxy/tetracycline  if refractory",
+            "Patient Education": "Lid hygiene (baby shampoo); avoid makeup until healed\n\nFollowup if lasts for weeks or severe redness, pain, vision changes or corneal involvement",
+            "Complications": "Corneal involvement if untreated"
+          },
+          "images": [
+            {
+              "file": "/images/eye-disorders-blepharitis-1.jpg",
+              "alt": "Blepharitis (Eyelid Inflammation ...",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "eye-disorders--subconjunctival-hemorrhage",
+          "condition": "Subconjunctival Hemorrhage",
+          "cells": {
+            "Condition": "Subconjunctival Hemorrhage",
+            "Definition / Overview": "Bleeding under conjunctiva",
+            "Etiology": "Spontaneous/trauma\nCommon in elderly",
+            "Clinical Presentation": "Bright red patch, no pain/discharge, vision normal",
+            "Diagnostics": "Clinical",
+            "Treatment": "Reassurance, self-limited",
+            "Patient Education": "None",
+            "Complications": "None"
+          },
+          "images": [
+            {
+              "file": "/images/eye-disorders-subconjunctival-hemorrhage-1.jpg",
+              "alt": "Subconjunctival Hemorrhage ...",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "eye-disorders--conjunctivitis",
+          "condition": "Conjunctivitis",
+          "cells": {
+            "Condition": "Conjunctivitis",
+            "Definition / Overview": "Inflammation of conjunctiva (bacterial, viral, allergic)",
+            "Etiology": "Viral (adenovirus), bacterial (S. aureus, Strep, H. flu), allergic",
+            "Clinical Presentation": "Viral: watery discharge, preauricular lymph nodes; tearing, photophobia,  \n\nBacterial: thick purulent discharge, lids stuck AM; \n\nAllergic: bilateral itching, watery/stringy discharge",
+            "Diagnostics": "Clinical + vision intact, corneal sensitivity normal",
+            "Treatment": "Viral: supportive (cool compress + artificial tears)\n\nBacterial: topical antibiotics \n\nAllergic: avoid allergens antihistamine/decongestant drops",
+            "Patient Education": "Hand hygiene, no contacts/makeup, finish abx",
+            "Complications": "Herpetic keratitis (vision loss, decreased corneal density, herpetic lesions, unilateral)= EMERGENCY so referral"
+          },
+          "images": [
+            {
+              "file": "/images/eye-disorders-conjunctivitis-1.jpg",
+              "alt": "Conjunctivitis Wheaton | Cornea ...",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "eye-disorders--corneal-abrasion",
+          "condition": "Corneal Abrasion",
+          "cells": {
+            "Condition": "Corneal Abrasion",
+            "Definition / Overview": "Traumatic or spontaneous Scratch/trauma to cornea",
+            "Etiology": "Trauma, FB",
+            "Clinical Presentation": "Severe pain, photophobia, FB sensation, tearing",
+            "Diagnostics": "Fluorescein stain",
+            "Treatment": "Topical abx (erythro ointment); NSAIDs for pain; no steroids/anesthetics",
+            "Patient Education": "Eye protection\nURGENT FOLLOWUP IF NOT IMPROVED in 24-48 hours",
+            "Complications": "Corneal ulcer"
+          },
+          "images": [
+            {
+              "file": "/images/eye-disorders-corneal-abrasion-1.jpg",
+              "alt": "Corneal Sparing Conjunctival Abrasion ...",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "eye-disorders--corneal-foreign-body",
+          "condition": "Corneal Foreign Body",
+          "cells": {
+            "Condition": "Corneal Foreign Body",
+            "Definition / Overview": "Object stuck in cornea",
+            "Etiology": "Trauma, metal, wood, etc.",
+            "Clinical Presentation": "Pain, tearing, FB sensation",
+            "Diagnostics": "Fluorescein, slit lamp",
+            "Treatment": "Remove (irrigation/swab), topical abx (erythromycin), urgent referral if deep\nRemove within 24 hours",
+            "Patient Education": "Eye protection\nURGENT FOLLOWUP IF NOT IMPROVED in 24-48 hours",
+            "Complications": "Infection, scarring"
+          },
+          "images": [
+            {
+              "file": "/images/eye-disorders-corneal-foreign-body-1.jpg",
+              "alt": "Foreign Bodies, Corneal Abrasions ...",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "eye-disorders--contact-lens-complications",
+          "condition": "Contact Lens Complications",
+          "cells": {
+            "Condition": "Contact Lens Complications",
+            "Definition / Overview": "Injury/infection from lens use",
+            "Etiology": "Improper hygiene, overuse",
+            "Clinical Presentation": "Dryness, pain, redness, abrasions and increased risk of infection",
+            "Diagnostics": "Clinical presentation, no testing",
+            "Treatment": "Stop lens; cold compress, NSAIDs; f/u daily x5 days",
+            "Patient Education": "No sleeping in contacts; replace lense/clean case regularly",
+            "Complications": "Keratitis"
+          },
+          "images": []
+        },
+        {
+          "id": "eye-disorders--dry-eye-syndrome",
+          "condition": "Dry Eye Syndrome",
+          "cells": {
+            "Condition": "Dry Eye Syndrome",
+            "Definition / Overview": "↓ tear production or ↑ evaporation",
+            "Etiology": "Age, meds, Sjögren’s",
+            "Clinical Presentation": "Dry, gritty, burning eyes; FB sensation, blurred vision; paradoxical tearing, photophobia",
+            "Diagnostics": "Clinical presentation",
+            "Treatment": "Artificial tears, ointment, warm compresses",
+            "Patient Education": "Blink breaks, hydration, stop offending meds\n\nOphthalmology referral if neuropathy occurs",
+            "Complications": "Corneal damage"
+          },
+          "images": [
+            {
+              "file": "/images/eye-disorders-dry-eye-syndrome-1.jpg",
+              "alt": "Dry Eye Syndrome Hunter Family Vision",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "eye-disorders--episcleritis",
+          "condition": "Episcleritis",
+          "cells": {
+            "Condition": "Episcleritis",
+            "Definition / Overview": "Benign inflammation of episclera",
+            "Etiology": "Often idiopathic",
+            "Clinical Presentation": "Redness, irritation, watery eye; vision intact",
+            "Diagnostics": "Clinical",
+            "Treatment": "NSAIDs; self-limited\nRefer if persistent",
+            "Patient Education": "Eye protection",
+            "Complications": "Rare"
+          },
+          "images": [
+            {
+              "file": "/images/eye-disorders-episcleritis-1.jpg",
+              "alt": "Episcleritis Symptoms and Treatments",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "eye-disorders--cataracts",
+          "condition": "Cataracts",
+          "cells": {
+            "Condition": "Cataracts",
+            "Definition / Overview": "Progressive lens opacity",
+            "Etiology": "Aging, diabetes, steroids",
+            "Clinical Presentation": "Painless ↓ vision acuity, blurred/ hazy vision, halos, glare, difficulty driving at night",
+            "Diagnostics": "Ophthalmology eval",
+            "Treatment": "Surgery",
+            "Patient Education": "Sunglasses, referral\nManagement of diabetes",
+            "Complications": "Blindness if untreated"
+          },
+          "images": [
+            {
+              "file": "/images/eye-disorders-cataracts-1.jpg",
+              "alt": "Eye Cataracts Treatment · Top Eye ...",
+              "column": "Condition"
+            }
+          ]
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "ear-disorders",
+      "title": "Ear Disorders",
+      "columns": [
+        "Condition",
+        "Definition",
+        "Etiology",
+        "Clinical Presentation",
+        "Diagnostics",
+        "Treatment / Management",
+        "Patient Education",
+        "Complications"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "ear-disorders--otitis-externa-swimmer-s-ear",
+          "condition": "Otitis Externa (Swimmer’s Ear)",
+          "cells": {
+            "Condition": "Otitis Externa (Swimmer’s Ear)",
+            "Definition": "Inflammation of external canal",
+            "Etiology": "Pseudomonas, S. aureus; fungi",
+            "Clinical Presentation": "Pain, itching, drainage, hearing loss; pain with tragus palpation",
+            "Diagnostics": "Clinical; culture if >14 days",
+            "Treatment / Management": "Debridement, irrigation, topical abx+steroid (Cipro HC, Cortisporin), pain control",
+            "Patient Education": "Ear hygiene, dry ears after water, avoid cotton swabs",
+            "Complications": "Mastoiditis, chronic infection"
+          },
+          "images": [
+            {
+              "file": "/images/ear-disorders-otitis-externa-swimmer-s-ear-1.jpg",
+              "alt": "Swimmer's Ear (Otitis Externa ...",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "ear-disorders--acute-otitis-media-aom",
+          "condition": "Acute Otitis Media (AOM)",
+          "cells": {
+            "Condition": "Acute Otitis Media (AOM)",
+            "Definition": "Middle ear infection with fluid",
+            "Etiology": "S. pneumo, H. flu, M. catarrhalis, GAS, S. aureus",
+            "Clinical Presentation": "Ear pain, fever, irritability, drainage, ↓ hearing",
+            "Diagnostics": "Otoscopy: bulging, red TM, ↓ mobility",
+            "Treatment / Management": "NSAIDs; Amox-clav 7–10d; alt: azithro/doxy; ENT if severe",
+            "Patient Education": "Adherence, follow-up",
+            "Complications": "TM perforation, mastoiditis, meningitis"
+          },
+          "images": [
+            {
+              "file": "/images/ear-disorders-acute-otitis-media-aom-1.jpg",
+              "alt": "Acute otitis media - Knowledge @ AMBOSS",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "ear-disorders--otitis-media-with-effusion-ome",
+          "condition": "Otitis Media with Effusion (OME)",
+          "cells": {
+            "Condition": "Otitis Media with Effusion (OME)",
+            "Definition": "Serous fluid in middle ear (not infected)",
+            "Etiology": "Post-AOM, allergies, barotrauma",
+            "Clinical Presentation": "Ear fullness, hearing loss, popping, asymptomatic sometimes",
+            "Diagnostics": "↓ TM mobility; otoscopy\nVisible fluid",
+            "Treatment / Management": "Watchful waiting; refer if >12 wks",
+            "Patient Education": "Monitor symptoms",
+            "Complications": "Chronic hearing loss"
+          },
+          "images": [
+            {
+              "file": "/images/ear-disorders-otitis-media-with-effusion-ome-1.jpg",
+              "alt": "Otitis media with effusion - Symptoms ...",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "ear-disorders--cholesteatoma",
+          "condition": "Cholesteatoma",
+          "cells": {
+            "Condition": "Cholesteatoma",
+            "Definition": "Abnormal skin growth in middle ear",
+            "Etiology": "Recurrent AOM, TM injury, bone anomalies",
+            "Clinical Presentation": "Hearing loss, recurrent infections, tinnitus, vertigo, purulent drainage",
+            "Diagnostics": "Otoscopy, CT/MRI",
+            "Treatment / Management": "Surgery (definitive), ENT referral",
+            "Patient Education": "Avoid recurrent infections",
+            "Complications": "Brain abscess, meningitis"
+          },
+          "images": [
+            {
+              "file": "/images/ear-disorders-cholesteatoma-1.png",
+              "alt": "Surgery for cholesteatoma | healthdirect",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "ear-disorders--cerumen-impaction",
+          "condition": "Cerumen Impaction",
+          "cells": {
+            "Condition": "Cerumen Impaction",
+            "Definition": "Wax buildup occluding canal",
+            "Etiology": "Cotton swabs, earplugs, hearing aids",
+            "Clinical Presentation": "Fullness, ↓ hearing, tinnitus, dizziness",
+            "Diagnostics": "Visualization of TM blocked",
+            "Treatment / Management": "Cerumenolytics, irrigation, curette",
+            "Patient Education": "Avoid cotton swabs; ear hygiene",
+            "Complications": "Hearing loss, infections"
+          },
+          "images": [
+            {
+              "file": "/images/ear-disorders-cerumen-impaction-1.jpg",
+              "alt": "What is earwax? : Nilesh Patel, MD: Ear ...",
+              "column": "Condition"
+            }
+          ]
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "oropharynx-throat-disorders",
+      "title": "Oropharynx / Throat Disorders",
+      "columns": [
+        "Condition",
+        "Definition",
+        "Etiology",
+        "Clinical Presentation",
+        "Diagnostics",
+        "Treatment / Management",
+        "Patient Education",
+        "Complications"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "oropharynx-throat-disorders--pharyngitis-tonsillitis",
+          "condition": "Pharyngitis/Tonsillitis",
+          "cells": {
+            "Condition": "Pharyngitis/Tonsillitis",
+            "Definition": "Inflammation of pharynx/tonsils, acute or chronic; Most cases are viral & self-limited\n\nTonsillitis = acute/ chronic inflammation of tonsils, (viral or bacterial), similar presentation, diagnosis and management as pharyngitis",
+            "Etiology": "Viral (rhinovirus, EBV, influenza); Bacterial (GAS most common)",
+            "Clinical Presentation": "Viral: URI sx (cough, congestion, conjunctivitis, hoarseness), low/no fever; pharyngeal edema, oral ulcers, viral exanthem \n\nStrep: NO URI sx, acute sore throat, fever (102-104), tonsillar exudates, pharyngeal erythema, palatal petechiae. strawberry tongue, scarlatiniform rash, tender nodes, no cough, N/V, abdomen pain",
+            "Diagnostics": "Clinical Findings Strep Pharyngitis: red pharynx, uvula, tonsils, bilateral tonsillar exudates, tender cervical lymphadenopathy, petechia on soft palate, halitosis \n\nViral: no test \n\nBacterial: RADT; culture if negative esp children; ASO titers later",
+            "Treatment / Management": "Viral: supportive (acetaminophen/NSAIDs, lozenges, fluids, humidification, voice rest, saline gargles)\n\nStrep: penicillin/amox 10d (PCN allergy: clindamycin or clarithromycin 10d, azithromycin x 5d, macrolides)",
+            "Patient Education": "Hand hygiene, replace toothbrush, no work/school 24h post-abx or until afebrile \n\nNO antibiotics in viral pharyngitis",
+            "Complications": "Peritonsillar abscess, rheumatic fever, glomerulonephritis"
+          },
+          "images": [
+            {
+              "file": "/images/oropharynx-throat-disorders-pharyngitis-tonsillitis-1.jpg",
+              "alt": "",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "oropharynx-throat-disorders--peritonsillar-abscess-pta",
+          "condition": "Peritonsillar Abscess (PTA)",
+          "cells": {
+            "Condition": "Peritonsillar Abscess (PTA)",
+            "Definition": "Pus collection between tonsil & constrictor muscle; deep neck infection",
+            "Etiology": "Complication of tonsillitis (GAS)\nCommon in ages 20-40, increased risk with recurrent tonsillitis & smoking",
+            "Clinical Presentation": "Fever, chills, malaise, halitosis, dysphagia, otalgia \nSevere sore throat, unilateral pain radiating to ear, trismus, “hot potato voice,” drooling",
+            "Diagnostics": "Clinical= unilateral tonsil displaced medially downward, fluctuant peritonsillar tissue with erythema/ exudate, tender cervical nodes, trismus tachycardia drooling \n\n CT w contrast (confirm abscess) /US if needed (bedside confirmation/ drainage guidance) \nCBC: leukocytosis \nMonospot (rule out mono)",
+            "Treatment / Management": "ENT referral; drainage + IV/PO abx (clindamycin, or  PCN+metro); steroids",
+            "Patient Education": "Hydration, med adherence",
+            "Complications": "Airway obstruction, sepsis"
+          },
+          "images": [
+            {
+              "file": "/images/oropharynx-throat-disorders-peritonsillar-abscess-pta-1.jpg",
+              "alt": "Peritonsillar Abscess: Care Instructions",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "oropharynx-throat-disorders--epiglottitis",
+          "condition": "Epiglottitis",
+          "cells": {
+            "Condition": "Epiglottitis",
+            "Definition": "Inflammation of epiglottis → airway obstruction → life threatening",
+            "Etiology": "Bacterial (Hib, strep, staph), viral, fungal, smoke inhalation",
+            "Clinical Presentation": "Abrupt rapidly progressive airway obstruction, sore throat, odynophagia, fever, dysphagia, drooling, tripod position, muffled voice, Neck tenderness, lymphadenopathy, respiratory distress",
+            "Diagnostics": "Clinical; laryngoscopy with fiberoptic scope  (gold std, careful)\n\nNO tongue depressors",
+            "Treatment / Management": "IMMEDIATE ED/ENT \nInpatient: urgent airway mgmt, IV abx",
+            "Patient Education": "Hib vaccine prevention; explain procedures, stress adherence, immunization status",
+            "Complications": "Death from airway obstruction (septicemia, meningitis, pulmonary edema, epiglottic abscess)"
+          },
+          "images": [
+            {
+              "file": "/images/oropharynx-throat-disorders-epiglottitis-1.jpg",
+              "alt": "Epiglottitis – Core EM",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "oropharynx-throat-disorders--infectious-mononucleosis-ebv",
+          "condition": "Infectious Mononucleosis (EBV)",
+          "cells": {
+            "Condition": "Infectious Mononucleosis (EBV)",
+            "Definition": "EBV viral infection",
+            "Etiology": "EBV, saliva spread;\nIncubation for 4-6 weeks \nSelf-limited and benign",
+            "Clinical Presentation": "Triad: fever, lymphadenopathy, tonsillar pharyngitis\n\n Malaise, anorexia, atypical lymphocytosis, lympadenopathy ( posterior and cervical) splenomegaly, possible hepatomegaly, eyelid edema fatigue, rash possible",
+            "Diagnostics": "CBC (lymphocytosis, neutropenia, thrombocytopenia), Monospot, LFTs= ↑ AST/abnormal LFTs with pharyngitis",
+            "Treatment / Management": "Supportive (NSAIDs, fluids, rest); no abx",
+            "Patient Education": "Avoid sports (splenic rupture risk), rest, hydration\n\nSelf-limited viral illness \nTeach comunicability",
+            "Complications": "Splenic rupture, airway obstruction, hepatomegaly, splenomegaly"
+          },
+          "images": [
+            {
+              "file": "/images/oropharynx-throat-disorders-infectious-mononucleosis-ebv-1.jpg",
+              "alt": "Infectious Mononucleosis: Pharyngitis ...",
+              "column": "Condition"
+            },
+            {
+              "file": "/images/oropharynx-throat-disorders-infectious-mononucleosis-ebv-2.jpg",
+              "alt": "Is that a Mono Rash: How to Know If ...",
+              "column": "Condition"
+            }
+          ]
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "pulmonary-system-conditions",
+      "title": "Pulmonary System Conditions",
+      "columns": [
+        "Condition",
+        "Definition/Overview",
+        "Risk Factors",
+        "Clinical Features",
+        "Diagnosis",
+        "Treatment/Management",
+        "Education/Prevention",
+        "Complications/Referral",
+        "Differential Diagnosis"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "pulmonary-system-conditions--acute-bronchitis",
+          "condition": "Acute Bronchitis",
+          "cells": {
+            "Condition": "Acute Bronchitis",
+            "Definition/Overview": "Acute inflammation of bronchi, usually viral, following URI; typically self-limiting; most common is viral infection (FLu, rhinovirus, covid, sars, rsv); can be bacterial",
+            "Risk Factors": "Recent URI, smoke/irritant exposure, allergens, chronic aspiration/GERD, undiagnosed asthma",
+            "Clinical Features": "Cough >5 days (1–3 wks), with or without sputum (clear/purulent), chest wall tenderness, nasal congestion, sore throat, possible wheeze/mild dyspnea, retrosternal pain during deep breathing and cough;  NO FEVER",
+            "Diagnosis": "Clinical; Mildly elevated temp, pulse RR, O2 sat, few wheezes, pharynx may be injected; persistent cough for 1-3 weeks \nCXR only if pneumonia suspected",
+            "Treatment/Management": "Supportive: rest, fluids, cough control , bronchodilators if wheeze; antibiotics not indicated in healthy individual\n\nAvoid use of opioid cough suppressants, corticosteroids or herbal remedies",
+            "Education/Prevention": "Hand hygiene, avoid smoke/irritants\n\nSelf limiting- it will improve (1-3 weeks) \n\nReturn clinic if new onset fever, pleuritic chest pain. Difficulty breathing, bloody sputum, more than 4 weeks",
+            "Complications/Referral": "Refer if pneumonia suspected, hemoptysis, hypoxia, or symptoms >3 wks",
+            "Differential Diagnosis": "Allergic rhinitis, pneumonia, COVID 19, Influenza, Asthma, GERD, DRUGS, COPD/ emphysema, postnasal drip syndrome, Common cold, lung cancer"
+          },
+          "images": []
+        },
+        {
+          "id": "pulmonary-system-conditions--asthma",
+          "condition": "Asthma",
+          "cells": {
+            "Condition": "Asthma",
+            "Definition/Overview": "Chronic inflammatory airway disease with reversible obstruction & hyperresponsiveness characterized by wheezing breathlessness/dyspnea, chest tightness, coughing, particularly at night\n\nExacerbations:\nMild to moderate: talks in phrases, not agitated but tachypnic, NO accessory muscle use, O2 sat 90-95% \n\nSevere: talks in words, hunched forward, accessory muscles used, RR > 30, pulse > 120bpm, O sat < 90%",
+            "Risk Factors": "Atopy, Hx (wheeze, cough, SOB, chest tightness), allergens, infections, cold air, smoke, characteristic triggers (exercise,maybe pets)",
+            "Clinical Features": "Episodic, recurrent wheeze, cough worse at night, chest tightness, dyspnea; worse at night/early AM; ↓ breath sounds if severe\nDigital clubbing might occur -> sign of hypoxia",
+            "Diagnosis": "Physical exam: wheezing on auscultation especially on expiration; confirmed with demonstration of variable expiratory airflow limitation, exclusion of alternative diagnosis \n\nSpirometry: ↓FEV1/FVC reversible post-bronchodilator (GOLD!)\n\npeak expiratory flow(not diagnostic tho); FeNO if available",
+            "Treatment/Management": "Stepwise: SABA → ICS → add LABA/↑ICS → LTRA/biologics; systemic steroids for exacerbations\n\nLong-term control= inhaled corticosteroids, LABA, long acting antimuscarinic, methylaxanthines, leukotriene modifiers \n\nMART: use of ICS formoterol daily and as needed for symptoms \n\nExacerbations:\nMild to moderate: SABA every 20 min x 1 hr, oral corticosteroid, controlled oxygen \n\nSevere: ER! SABA + ipra + O2 + oral corticosteroid \n911!!",
+            "Education/Prevention": "Inhaler technique, trigger avoidance, action plan, vaccines\n\nFollowup: \nGaining control: Every 2-6 wks\nMonitor Control: 1-3 months\nStep down: every 3 months",
+            "Complications/Referral": "Refer if severe/poor control; complications: status asthmaticus, airway remodeling; unresponsive to therapy after 3-6 months",
+            "Differential Diagnosis": "COPD, CHF, PE, Pneumonia, Cough secondary to ACE inhib, laryngeal dysfunction, benign and malignant tumors"
+          },
+          "images": []
+        },
+        {
+          "id": "pulmonary-system-conditions--copd",
+          "condition": "COPD",
+          "cells": {
+            "Condition": "COPD",
+            "Definition/Overview": "Progressive, irreversible airflow limitation (chronic bronchitis + emphysema) occurs on most days for a minimum of 3 months a year for at least 2 successive years\n\nCough, dyspnea + airway limitation \nPreventable, treatable but NOT reversible",
+            "Risk Factors": "Smoking, occupational exposures, structural changes of the lung caused by childhood pneumonia, TB, HIV, premie, early life asthma, COPD FHx",
+            "Clinical Features": "Chronic cough, sputum production (colorless sputum worse in morning), dyspnea, \n\nLess common= wheeze/ chest tightness, difficulty speaking/ performing tasks, weight loss, weight gain, limitation of activity (sex), depression/anxiety \n\nexacerbations = worse dyspnea/sputum/cough, could become hypoxic",
+            "Diagnosis": "Suggestive: Hx of symptoms + exposure + fam hx of chronic lung disease + comorbidities \n\nConfirmation: Spirometry (gold standard): FEV1/FVC <0.70 post-BD + exclusion of alt diagnosis \n\nGOLD 1 (mild disease): FEV > 80 percent predicted \nGOLD 2 (moderate disease): FEV1 between 50 and 80 percent predicted \nGOLD 3 (severe disease) FEV1 between 30 and 50 percent predicted \nGOLD 4 (very severe disease): FEV < 30 percent predicted",
+            "Treatment/Management": "Smoking cessation, bronchodilators (SABA/LABA/LAMA), ICS if frequent exacerbations, oxygen if hypoxemic, pulm rehab\n\nExacerbation Tx = Prednisone for 5-14 days + smoking cessation + physical activity + low carb diet + antibiotics if bacterial infection",
+            "Education/Prevention": "Quit smoking, vaccines (flu and pneumo and COVID), rehab\n\nRepeat spirometry annually \n\nAnticipatory guidance for sexual dysfunction \n\nEducate on inhalers",
+            "Complications/Referral": "Refer for frequent exacerbations or oxygen need; complications: cor pulmonale, resp failure",
+            "Differential Diagnosis": "Chronic obstructive asthma, chronic bronchitis with normal spirometry, bronchiectasis, HF, TB, pneumonia"
+          },
+          "images": []
+        },
+        {
+          "id": "pulmonary-system-conditions--group-a-group-b-group-e-copd",
+          "condition": "Group A, Group B, Group E COPD",
+          "cells": {
+            "Condition": "Group A, Group B, Group E COPD",
+            "Definition/Overview": "",
+            "Risk Factors": "",
+            "Clinical Features": "Group A= mMRC = 0-1 = dyspneic on strenuous exercise/ on walking up a slight hill\n\nGroup B= mMRC> 2= dyspneic on walking level ground, stops occasionally; must stop for breathlessness after 100 yards; cannot leave house",
+            "Diagnosis": "Group A= mMRC = 0-1;  CAT < 10 \n0-1 exacerbation per year w/o hospital\n\nGroup B= mMRC > 2 or CAT > 10\nMore symptomatic; still 0-1 exacerbation per year w/o hospital\n\nGroup E= > 2 exacerbations per year or > 1 hospitalization for exacerbation",
+            "Treatment/Management": "Group A= LAMA plus as needed SABA\nLABA plus SAMA- SABA\nAs-needed SAMA-SABA\n\nGroup B= LAMA-LABA dual bronchodilator therapy \nSABA as needed for acute dyspnea\n\nGroup E= No high eosinophil level or hospitalization for COPD \nLAMA-LABA and bronchodilator therapy \nSABA as needed for acute dyspnea \nHigh eosinophil level or hospitalization for COPD \nICS- LAMA-LABA therapy and SABA as needed for acute dyspnea \n\nALL should get SABA for relief of episodic dyspnea",
+            "Education/Prevention": "",
+            "Complications/Referral": "",
+            "Differential Diagnosis": ""
+          },
+          "images": []
+        },
+        {
+          "id": "pulmonary-system-conditions--community-acquired-pneumonia-cap",
+          "condition": "Community-Acquired Pneumonia (CAP)",
+          "cells": {
+            "Condition": "Community-Acquired Pneumonia (CAP)",
+            "Definition/Overview": "Acute infection of lung parenchyma acquired outside hospital/LTC\nCan be bacterial, atypical bacteria, or viral= most common bacterial is S. pneumoniae",
+            "Risk Factors": "Age extremes, COPD/DM/HF, smoking, immunosuppression, low income, crowded living condition",
+            "Clinical Features": "Cough, fever, dyspnea, pleuritic chest pain, purulent sputum; rales, egophony, dullness",
+            "Diagnosis": "CXR: lobar infiltrate/consolidation via Chest Xray (first line; gold standard) or CT scan (second); sputum/blood cultures if severe; CURB-65 for severity, CBC with differential \n\nCURB-65 = new onset confusion, BUN > 20, RR > 30, BP < 90/60, Age > 65",
+            "Treatment/Management": "Healthy+ no abx use/allergies= amoxicillin+ doxy, or macrolide \n\nComorbidities = Augmentin + doxy or maco \n\nPCN allergy = 3 gen cephalosporin + macro or doxy \n\nCOPD/ unable to take cephalosporins = respiratory fluoroquinolones",
+            "Education/Prevention": "Complete antibiotics, hydration, vaccines (flu, pneumo, COVID)\n\nSMOKING CESSATION + FLU VAC + PNEUMO VAC \n\nNo followup imaging typically required",
+            "Complications/Referral": "Admit if hypoxic/unstable/multilobar or CURB-65 ≥2; complications: empyema, sepsis, resp failure",
+            "Differential Diagnosis": "PE, CHF w pulmonary edema, atelectasis, lung cancer, bronchiectasis, spiration/ chemical pneumonitis, drug reaction, asthma/COPD, acute bronchitis, influenza and respiratory virus"
+          },
+          "images": []
+        },
+        {
+          "id": "pulmonary-system-conditions--tuberculosis-tb",
+          "condition": "Tuberculosis (TB)",
+          "cells": {
+            "Condition": "Tuberculosis (TB)",
+            "Definition/Overview": "Chronic M. tuberculosis infection; latent or active, may involve lungs, liver , spleen, kidney, brain and bone.\nMost common HIV opportunistic infection",
+            "Risk Factors": "TB contact, immunosuppressed (HIV/steroids), close quarters, foreign-born, homeless, incarcerated, drug use/ alcoholism, steroid therapy, cancer chemo, hematologic malignancies",
+            "Clinical Features": "Active: chronic cough, hemoptysis, fever, night sweats, weight loss/ difficulty gaining weight; chills, hemoptysis, fatigue \n\nLatent: asymptomatic",
+            "Diagnosis": "Purified Protein Derivative (PDD) testing, CXR (apical lesions); sputum AFB smear/culture = gold standard,  gastric aspirate culture, MRI, CBC with differential CRP \nMantoux Tuberculin Skin test \n\nDefinitive diagnosis = isolation of M. tuberculosis from a bodily secretion or tissue",
+            "Treatment/Management": "Latent: INH 6–9 mo or rifampin 4 mo; \n\nActive: RIPE (rifampin, INH, pyrazinamide, ethambutol) 2 mo → INH + rifampin 4 mo",
+            "Education/Prevention": "Adherence, DOT, isolation if active, reportable disease to state and local health department, monitor liver function \n\nRegular f/u every 4-8 weeks to ensure compliance, monitor adverse effects of medications \n\nRepeat CXR after 2-3 months to evaluate response to treatment",
+            "Complications/Referral": "Refer to TB specialist; complications: miliary TB, meningitis, MDR-TB",
+            "Differential Diagnosis": "Asthma, malignancies, aspiration pneumonia, bronchiectasis, pleurist, histoplasmosis, silicosis, COPD"
+          },
+          "images": []
+        },
+        {
+          "id": "pulmonary-system-conditions--lung-cancer",
+          "condition": "Lung Cancer",
+          "cells": {
+            "Condition": "Lung Cancer",
+            "Definition/Overview": "Malignant lung tumor (NSCLC vs SCLC); leading cause of cancer death",
+            "Risk Factors": "Smoking!!!, asbestos, radon, FHx",
+            "Clinical Features": "Cough, hemoptysis, weight loss, dyspnea, chest pain, recurrent pneumonia, hoarseness; paraneoplastic syndromes",
+            "Diagnosis": "CXR/CT mass; bronchoscopy with biopsy; staging with CT/PET/MRI\nDefinitive diagnosis requires cytologic or histologic evidence",
+            "Treatment/Management": "NSCLC: surgery if localized ± chemo/radiation; SCLC: chemo + radiation; targeted/immunotherapy as indicated",
+            "Education/Prevention": "Smoking cessation; screening 50-80: annual low-dose CT age 50–80 with ≥20 pack-years, current smoker or quit <15 yrs",
+            "Complications/Referral": "Refer to oncology; complications: brain, bone, liver mets, malignant effusion",
+            "Differential Diagnosis": "Pneumonia, lung abscess, bronchitis, TB"
+          },
+          "images": []
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "thyroid-disorders",
+      "title": "Thyroid Disorders",
+      "columns": [
+        "Disorder",
+        "Definition / Epidemiology",
+        "Causes / Types",
+        "Clinical Features",
+        "Diagnostics",
+        "Management",
+        "Complications / Education"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "thyroid-disorders--hyperthyroidism",
+          "condition": "Hyperthyroidism",
+          "cells": {
+            "Disorder": "Hyperthyroidism",
+            "Definition / Epidemiology": "Excess thyroid hormone production or release; affects multiple systems",
+            "Causes / Types": "Primary (thyroid origin, ↓TSH) Secondary (pituitary, ↑TSH) Tertiary (hypothalamus, ↑TRH) Causes: Graves’ disease (MC), toxic adenoma, multinodular goiter (Plummer’s), thyroiditis (subacute painful, silent, postpartum), struma ovarii, excess thyroid hormone, TSH-secreting pituitary adenoma, thyroid hormone resistance, hCG tumors, gestational thyrotoxicosis",
+            "Clinical Features": "• Nervousness, tremor, palpitations, heat intolerance • Weight loss despite ↑ appetite • Goiter, tachycardia, AFib • Graves’: ophthalmopathy, pretibial myxedema",
+            "Diagnostics": "Labs: TSH (best screen ↓), Free T4/T3 ↑ Imaging: Radioiodine uptake (diffuse in Graves’, focal in nodules), MRI if suspicious nodules",
+            "Management": "Symptomatic: Beta-blockers (propranolol, atenolol) Thioamides: Methimazole (preferred), PTU (pregnancy/1st trimester) Radioiodine ablation: >20 yrs, failed meds, contraindicated in pregnancy & ophthalmopathy Surgery: if obstructive goiter, pregnancy intolerant to meds, RAI refusal",
+            "Complications / Education": "Complications: Untreated → AFib, CHF, angina, osteoporosis Thyroid storm: fever, tachy, AFib, delirium, GI symptoms (emergency) Education: monitor HR, signs of agranulocytosis on thioamides, adherence, possible hypothyroidism post-therapy"
+          },
+          "images": []
+        },
+        {
+          "id": "thyroid-disorders--hypothyroidism",
+          "condition": "Hypothyroidism",
+          "cells": {
+            "Disorder": "Hypothyroidism",
+            "Definition / Epidemiology": "Inadequate thyroid hormone production; ~4.6% U.S. prevalence; 5–8x more common in women; compromises nearly all body systems",
+            "Causes / Types": "Primary (MC): thyroid disease (Hashimoto’s MC in US) Central: pituitary or hypothalamic failure Iatrogenic: thyroidectomy, RAI, external radiation, meds (lithium, amiodarone, interferon) Congenital: thyroid dysgenesis, iodine deficiency, maternal antibodies Transient: postpartum thyroiditis, subacute thyroiditis Subclinical: ↑TSH, normal T4 (risk CVD, infertility, neuro symptoms)",
+            "Clinical Features": "• Fatigue, weight gain, cold intolerance • Constipation, hoarseness, slow thinking • Dry skin, brittle hair • Bradycardia • Myxedema: puffiness, periorbital edema, slow reflexes",
+            "Diagnostics": "Labs: TSH (high in primary; low/normal in central), Free T4 low Antimicrosomal/anti-TPO antibodies (Hashimoto’s) Ultrasound, FNAC if suspicious nodules",
+            "Management": "Replacement: Levothyroxine (T4) 1.6–1.7 mcg/kg/day Start low in elderly/heart disease (12.5–25 mcg) Monitor TSH every 6 wks; adjust 12.5–25 mcg Subclinical: treat if TSH ≥10 or symptomatic Hashimoto’s: lifelong levothyroxine",
+            "Complications / Education": "Complications: Myxedema coma (severe, emergency; ↓ mental status, hypothermia, organ failure) Risk factors: untreated hypo, infection, cold, MI, surgery, sedatives Education: lifelong meds, take in AM, avoid interfering meds (iron, calcium, sucralfate, TFs), dosing changes in illness/pregnancy, avoid substitutions"
+          },
+          "images": []
+        },
+        {
+          "id": "thyroid-disorders--thyroid-cancer",
+          "condition": "Thyroid Cancer",
+          "cells": {
+            "Disorder": "Thyroid Cancer",
+            "Definition / Epidemiology": "Most common endocrine cancer; ~57k new cases/yr (2017); 3x more in women; usually slow-growing; MC age 20–54; RF: ionizing radiation",
+            "Causes / Types": "Differentiated: Papillary (MC, ~60%), Follicular Undifferentiated: Medullary (familial, MEN2), Anaplastic (aggressive, iodine-deficient regions)",
+            "Clinical Features": "• Painless lump/nodule (MC symptom) • Neck fullness, dysphagia, SOB • New hoarseness (highly suspicious) • Hemoptysis, lymphadenopathy • Neck pain (late)",
+            "Diagnostics": "Labs: TSH usually normal (used for monitoring post-treatment) Ultrasound: detects nodules but not malignant vs benign RAI uptake: + uptake favorable prognosis US-guided FNA: gold standard (83% sens, 92% spec) CT/MRI: for large/recurrent tumors, metastasis",
+            "Management": "Management: Endocrinology referral TSH suppression with high-dose thyroxine Thyroidectomy (± lymph node clearance) Radiation therapy (regional or total body) ± Chemotherapy Multidisciplinary approach",
+            "Complications / Education": "Education: Monthly neck checks if family hx, goiter hx, or prior radiation Teach self-check safely Stress early evaluation of new lumps/hoarseness"
+          },
+          "images": []
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "patterns-of-thyroid-function-tests",
+      "title": "Patterns of Thyroid Function Tests",
+      "columns": [
+        "Condition",
+        "TSH",
+        "Free T4",
+        "Free T3",
+        "Notes"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "patterns-of-thyroid-function-tests--euthyroid-normal",
+          "condition": "Euthyroid (Normal)",
+          "cells": {
+            "Condition": "Euthyroid (Normal)",
+            "TSH": "Normal",
+            "Free T4": "Normal",
+            "Free T3": "Normal",
+            "Notes": "Normal thyroid function"
+          },
+          "images": []
+        },
+        {
+          "id": "patterns-of-thyroid-function-tests--primary-hypothyroidism",
+          "condition": "Primary Hypothyroidism",
+          "cells": {
+            "Condition": "Primary Hypothyroidism",
+            "TSH": "↑",
+            "Free T4": "↓",
+            "Free T3": "↓/Normal",
+            "Notes": "Most common form; Hashimoto’s, iatrogenic, iodine deficiency"
+          },
+          "images": []
+        },
+        {
+          "id": "patterns-of-thyroid-function-tests--subclinical-hypothyroidism",
+          "condition": "Subclinical Hypothyroidism",
+          "cells": {
+            "Condition": "Subclinical Hypothyroidism",
+            "TSH": "↑",
+            "Free T4": "Normal",
+            "Free T3": "Normal",
+            "Notes": "Early hypo; risk of CVD, infertility; may progress"
+          },
+          "images": []
+        },
+        {
+          "id": "patterns-of-thyroid-function-tests--central-hypothyroidism-secondary-tertiar",
+          "condition": "Central Hypothyroidism (secondary/tertiary)",
+          "cells": {
+            "Condition": "Central Hypothyroidism (secondary/tertiary)",
+            "TSH": "Low/Normal",
+            "Free T4": "↓",
+            "Free T3": "↓/Normal",
+            "Notes": "Pituitary or hypothalamic failure"
+          },
+          "images": []
+        },
+        {
+          "id": "patterns-of-thyroid-function-tests--primary-hyperthyroidism-graves-toxic-nod",
+          "condition": "Primary Hyperthyroidism (Graves’, toxic nodules)",
+          "cells": {
+            "Condition": "Primary Hyperthyroidism (Graves’, toxic nodules)",
+            "TSH": "↓",
+            "Free T4": "↑",
+            "Free T3": "↑",
+            "Notes": "TSH suppressed, thyroid hormone elevated"
+          },
+          "images": []
+        },
+        {
+          "id": "patterns-of-thyroid-function-tests--subclinical-hyperthyroidism",
+          "condition": "Subclinical Hyperthyroidism",
+          "cells": {
+            "Condition": "Subclinical Hyperthyroidism",
+            "TSH": "↓",
+            "Free T4": "Normal",
+            "Free T3": "Normal",
+            "Notes": "Often multinodular goiter or nodules; ↑ AFib risk"
+          },
+          "images": []
+        },
+        {
+          "id": "patterns-of-thyroid-function-tests--thyroiditis-early-hyper-phase",
+          "condition": "Thyroiditis (early/hyper phase)",
+          "cells": {
+            "Condition": "Thyroiditis (early/hyper phase)",
+            "TSH": "↓",
+            "Free T4": "↑",
+            "Free T3": "↑",
+            "Notes": "May be transient (silent, postpartum, subacute)"
+          },
+          "images": []
+        },
+        {
+          "id": "patterns-of-thyroid-function-tests--thyroiditis-late-hypo-phase",
+          "condition": "Thyroiditis (late/hypo phase)",
+          "cells": {
+            "Condition": "Thyroiditis (late/hypo phase)",
+            "TSH": "↑",
+            "Free T4": "↓",
+            "Free T3": "↓",
+            "Notes": "Can progress to permanent hypothyroidism"
+          },
+          "images": []
+        },
+        {
+          "id": "patterns-of-thyroid-function-tests--thyroid-hormone-resistance",
+          "condition": "Thyroid Hormone Resistance",
+          "cells": {
+            "Condition": "Thyroid Hormone Resistance",
+            "TSH": "Normal/↑",
+            "Free T4": "Normal/↑",
+            "Free T3": "Normal/↑",
+            "Notes": "Rare; tissues resistant to thyroid hormone"
+          },
+          "images": []
+        },
+        {
+          "id": "patterns-of-thyroid-function-tests--tsh-secreting-pituitary-adenoma",
+          "condition": "TSH-secreting Pituitary Adenoma",
+          "cells": {
+            "Condition": "TSH-secreting Pituitary Adenoma",
+            "TSH": "↑ or Inappropriately Normal",
+            "Free T4": "↑",
+            "Free T3": "↑",
+            "Notes": "Rare cause of hyperthyroidism"
+          },
+          "images": []
+        },
+        {
+          "id": "patterns-of-thyroid-function-tests--thyroid-cancer",
+          "condition": "Thyroid Cancer",
+          "cells": {
+            "Condition": "Thyroid Cancer",
+            "TSH": "Usually Normal",
+            "Free T4": "Normal",
+            "Free T3": "Normal",
+            "Notes": "TFTs not diagnostic; TSH used to monitor treatment response"
+          },
+          "images": []
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "neurology-disorders",
+      "title": "Neurology Disorders",
+      "columns": [
+        "Disorder",
+        "Key Features / Presentation",
+        "Diagnostics / Work-up",
+        "Treatment / Management",
+        "Differentials"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "neurology-disorders--migraine",
+          "condition": "Migraine",
+          "cells": {
+            "Disorder": "Migraine",
+            "Key Features / Presentation": "Recurrent attacks (4 phases: prodrome, aura, headache, postdrome). POUND: Pulsatile, One-day duration, Unilateral, Nausea/vomiting, Disabling.",
+            "Diagnostics / Work-up": "Clinical dx; no imaging if stable & meets criteria. Labs: CBC, ESR, TSH, Lyme, RF if suspicious. Imaging (CT/MRI) if red flags (SNOOP10).",
+            "Treatment / Management": "Abortive: NSAIDs, acetaminophen, triptans (e.g., sumatriptan, rizatriptan), antiemetics. Preventive: propranolol, amitriptyline, topiramate, valproate, CGRP antagonists. Non-pharm: relaxation, CBT, biofeedback.",
+            "Differentials": "Tension headache, cluster, sinus, tumor, hemorrhage, aneurysm, thyroid issues, sleep apnea."
+          },
+          "images": []
+        },
+        {
+          "id": "neurology-disorders--tension-type-headache",
+          "condition": "Tension-Type Headache",
+          "cells": {
+            "Disorder": "Tension-Type Headache",
+            "Key Features / Presentation": "Bilateral, pressing/tightening, mild-moderate, not worsened by activity. No N/V, no photophobia/phonophobia. Triggered by stress, posture.",
+            "Diagnostics / Work-up": "Clinical diagnosis.",
+            "Treatment / Management": "Acute: NSAIDs, aspirin ± caffeine. Preventive: amitriptyline, venlafaxine; biofeedback, acupuncture, relaxation, botulinum toxin.",
+            "Differentials": "Migraine, sinus HA, TMJ, arthritis, MOH, brain tumor."
+          },
+          "images": []
+        },
+        {
+          "id": "neurology-disorders--cluster-headache",
+          "condition": "Cluster Headache",
+          "cells": {
+            "Disorder": "Cluster Headache",
+            "Key Features / Presentation": "Severe unilateral orbital/temporal pain with autonomic features (tearing, rhinorrhea, congestion, sweating, ptosis, miosis). More common in men. Restlessness.",
+            "Diagnostics / Work-up": "Neuroimaging recommended to r/o secondary causes.",
+            "Treatment / Management": "Acute: 100% O₂, subq sumatriptan. Preventive: verapamil (high dose), glucocorticoids during initiation, topiramate, nerve blocks if refractory.",
+            "Differentials": "Trigeminal neuralgia, meningioma, AVM, migraine."
+          },
+          "images": []
+        },
+        {
+          "id": "neurology-disorders--medication-overuse-headache-moh",
+          "condition": "Medication Overuse Headache (MOH)",
+          "cells": {
+            "Disorder": "Medication Overuse Headache (MOH)",
+            "Key Features / Presentation": "Headaches worsened by frequent analgesic use.",
+            "Diagnostics / Work-up": "History of med use. Thresholds: NSAIDs ≥15d/mo; triptans/ergots ≥10d/mo; combo analgesics ≥10d/mo.",
+            "Treatment / Management": "Discontinue overused meds. Start preventive therapy (topiramate, beta-blocker, CGRP). Education critical.",
+            "Differentials": "Migraine, tension, rebound headache."
+          },
+          "images": []
+        },
+        {
+          "id": "neurology-disorders--bell-s-palsy",
+          "condition": "Bell’s Palsy",
+          "cells": {
+            "Disorder": "Bell’s Palsy",
+            "Key Features / Presentation": "Acute unilateral peripheral facial paralysis, peaks in 72h. Smooth forehead, mouth droop, tearing, tinnitus, hyperacusis. RF: DM, pregnancy, hypothyroid, URI.",
+            "Diagnostics / Work-up": "Clinical dx. Lyme titer if risk. Imaging if atypical/bilateral. Use House-Brackmann scale.",
+            "Treatment / Management": "Prednisone 60mg ×5d ± acyclovir. Eye care: lubricants, glasses, tape at night. Refer if atypical.",
+            "Differentials": "Stroke (forehead sparing), tumor, MS, Lyme, Guillain-Barré, otitis media, Ramsay Hunt."
+          },
+          "images": []
+        },
+        {
+          "id": "neurology-disorders--dizziness-vertigo",
+          "condition": "Dizziness/Vertigo",
+          "cells": {
+            "Disorder": "Dizziness/Vertigo",
+            "Key Features / Presentation": "Vertigo: spinning, vestibular cause. Presyncope: lightheaded, CV cause. Disequilibrium: imbalance, cerebellar/peripheral neuropathy. Non-specific: vague, meds/anxiety.",
+            "Diagnostics / Work-up": "TiTrATE: Timing, Triggers, Targeted exam. Dix-Hallpike (BPPV), orthostatics, EKG if presyncope, audiometry if hearing loss, imaging if neuro deficits.",
+            "Treatment / Management": "BPPV → Epley maneuver. Vestibular rehab. Antiemetics short-term. Refer if unclear.",
+            "Differentials": "BPPV, vestibular neuritis, central stroke, arrhythmia, neuropathy, metabolic, anxiety."
+          },
+          "images": []
+        },
+        {
+          "id": "neurology-disorders--shingles-herpes-zoster",
+          "condition": "Shingles (Herpes Zoster)",
+          "cells": {
+            "Disorder": "Shingles (Herpes Zoster)",
+            "Key Features / Presentation": "Dermatomal painful vesicular rash preceded by tingling. Post-herpetic neuralgia possible.",
+            "Diagnostics / Work-up": "Clinical dx.",
+            "Treatment / Management": "Antivirals: valacyclovir, acyclovir (within 72h). Prednisone for acute pain. PHN: gabapentin, pregabalin. Vaccine: Shingrix ≥50yo.",
+            "Differentials": "Impetigo, eczema herpeticum."
+          },
+          "images": [
+            {
+              "file": "/images/neurology-disorders-shingles-herpes-zoster-1.jpg",
+              "alt": "Shingles: MedlinePlus Medical Encyclopedia",
+              "column": "Disorder"
+            }
+          ]
+        },
+        {
+          "id": "neurology-disorders--seizures-epilepsy",
+          "condition": "Seizures / Epilepsy",
+          "cells": {
+            "Disorder": "Seizures / Epilepsy",
+            "Key Features / Presentation": "Transient excessive electrical brain activity. Post-ictal confusion common.",
+            "Diagnostics / Work-up": "Clinical history, witness report. Work-up: r/o metabolic, trauma, infection, stroke.",
+            "Treatment / Management": "AEDs (antiepileptic drugs), seizure precautions, lifestyle modification.",
+            "Differentials": "Syncope, arrhythmia, TIA, migraine, tumor, hypoglycemia, psychogenic non-epileptic seizures."
+          },
+          "images": []
+        },
+        {
+          "id": "neurology-disorders--parkinson-s-disease",
+          "condition": "Parkinson’s Disease",
+          "cells": {
+            "Disorder": "Parkinson’s Disease",
+            "Key Features / Presentation": "Tremor, rigidity, bradykinesia, postural instability. Fall risk, mood/sleep issues, constipation, sialorrhea.",
+            "Diagnostics / Work-up": "Clinical dx. Exclude atypical features (symmetry, rapid progression, early falls).",
+            "Treatment / Management": "Levodopa, dopamine agonists, MAO-B inhibitors. Non-pharm: exercise, PT/OT. Support caregiver.",
+            "Differentials": "Essential tremor, drug-induced parkinsonism, atypical parkinsonism."
+          },
+          "images": []
+        },
+        {
+          "id": "neurology-disorders--multiple-sclerosis",
+          "condition": "Multiple Sclerosis",
+          "cells": {
+            "Disorder": "Multiple Sclerosis",
+            "Key Features / Presentation": "Chronic autoimmune CNS inflammation. Symptoms: optic neuritis, paresthesias, weakness, fatigue.",
+            "Diagnostics / Work-up": "MRI brain/spine, CSF oligoclonal bands, exclude mimics (B12 deficiency, Lyme).",
+            "Treatment / Management": "Disease-modifying therapies (DMTs), steroids for relapses, rehab.",
+            "Differentials": "Neuropathy, migraine, TIA, fibromyalgia."
+          },
+          "images": []
+        },
+        {
+          "id": "neurology-disorders--dementia",
+          "condition": "Dementia",
+          "cells": {
+            "Disorder": "Dementia",
+            "Key Features / Presentation": "Memory loss, impaired language, behavior/personality changes. Alzheimer’s most common.",
+            "Diagnostics / Work-up": "MoCA/MMSE, labs (TSH, B12, CMP, CBC), neuroimaging if atypical.",
+            "Treatment / Management": "Supportive care, cholinesterase inhibitors, memantine, caregiver support.",
+            "Differentials": "Depression, delirium, hypothyroidism, vitamin deficiency."
+          },
+          "images": []
+        },
+        {
+          "id": "neurology-disorders--fibromyalgia",
+          "condition": "Fibromyalgia",
+          "cells": {
+            "Disorder": "Fibromyalgia",
+            "Key Features / Presentation": "Chronic widespread pain ≥3mo, fatigue, sleep disturbance, cognitive symptoms. WPI ≥7 + SSS ≥5 (or WPI 4–6 + SSS ≥9).",
+            "Diagnostics / Work-up": "Rule out mimics (TSH, ESR, CRP). Clinical dx.",
+            "Treatment / Management": "Non-pharm: exercise, CBT, sleep hygiene. Pharm: duloxetine, milnacipran, pregabalin, low-dose amitriptyline.",
+            "Differentials": "Hypothyroid, RA, lupus, MS, depression."
+          },
+          "images": []
+        },
+        {
+          "id": "neurology-disorders--peripheral-neuropathy-paresthesia",
+          "condition": "Peripheral Neuropathy / Paresthesia",
+          "cells": {
+            "Disorder": "Peripheral Neuropathy / Paresthesia",
+            "Key Features / Presentation": "Numbness, tingling, burning pain. Common in diabetes.",
+            "Diagnostics / Work-up": "Monofilament testing, labs (B12, glucose, TSH).",
+            "Treatment / Management": "Manage cause, TCAs, anticonvulsants, pain referral.",
+            "Differentials": "B12 deficiency, entrapment, shingles, TIA."
+          },
+          "images": []
+        },
+        {
+          "id": "neurology-disorders--cerebrovascular-events-stroke-tia",
+          "condition": "Cerebrovascular Events (Stroke/TIA)",
+          "cells": {
+            "Disorder": "Cerebrovascular Events (Stroke/TIA)",
+            "Key Features / Presentation": "Sudden neuro deficit: weakness, numbness, aphasia, vision loss, severe headache.",
+            "Diagnostics / Work-up": "NIH Stroke Scale. Imaging (CT/MRI), labs (CBC, CMP, coag).",
+            "Treatment / Management": "Ischemic: thrombolytics (if eligible), thrombectomy. Hemorrhagic: BP control, neurosurgery. Long-term: secondary prevention.",
+            "Differentials": "Migraine, seizure, tumor, hypoglycemia, panic attack, conversion disorder."
+          },
+          "images": []
+        },
+        {
+          "id": "neurology-disorders--meningitis",
+          "condition": "Meningitis",
+          "cells": {
+            "Disorder": "Meningitis",
+            "Key Features / Presentation": "Fever, headache, stiff neck, photophobia, AMS. RF: HIV, sickle cell, asplenia, EtOH.",
+            "Diagnostics / Work-up": "CBC, LP with CSF analysis, CT if ICP ↑ suspected.",
+            "Treatment / Management": "IV antibiotics (don’t delay if toxic), vaccines (MCV4, MPSV4, pneumococcal).",
+            "Differentials": "Encephalitis, migraine, SAH, sinusitis."
+          },
+          "images": []
+        },
+        {
+          "id": "neurology-disorders--delirium",
+          "condition": "Delirium",
+          "cells": {
+            "Disorder": "Delirium",
+            "Key Features / Presentation": "Acute fluctuating disturbance of attention and cognition. Hours–days onset.",
+            "Diagnostics / Work-up": "CAM tool (acute onset + inattention + [disorganized thinking or altered consciousness]). Work-up: CBC, BMP, TSH, UA, tox screen, imaging if unclear.",
+            "Treatment / Management": "Treat underlying cause, reorientation, avoid sedatives, supportive care.",
+            "Differentials": "Dementia, psychiatric disorders, intoxication, withdrawal."
+          },
+          "images": []
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "cardiac-disorders",
+      "title": "Cardiac disorders",
+      "columns": [
+        "Disorder",
+        "Overview",
+        "Risk Factors",
+        "Key Diagnostics",
+        "Clinical Features",
+        "Management/Treatment",
+        "Patient Education/Prevention",
+        "Referral/Complications"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "cardiac-disorders--universal-ascvd-risk-lifestyle-factors",
+          "condition": "Universal ASCVD Risk & Lifestyle Factors",
+          "cells": {
+            "Disorder": "Universal ASCVD Risk & Lifestyle Factors",
+            "Overview": "Atherosclerotic cardiovascular disease (ASCVD) results from plaque buildup; prevention is key.",
+            "Risk Factors": "Non-modifiable: Age, sex, family history.Modifiable: Smoking, dyslipidemia, DM, obesity, inactivity, poor diet, HTN, stress.",
+            "Key Diagnostics": "ASCVD risk calculator (10-year risk, ages 40–79).CAC scoring for selected patients.",
+            "Clinical Features": "Often silent until MI, stroke, or PAD.",
+            "Management/Treatment": "Lifestyle modification: diet (DASH/Mediterranean), exercise ≥150 min/week, weight loss, BP, lipid & DM control, smoking cessation.",
+            "Patient Education/Prevention": "Avoid refined carbs, sugars, processed meats, trans fats. Avoid vaping.",
+            "Referral/Complications": "Refer if high ASCVD risk or resistant HTN/DM. Complications: MI, stroke, PAD, sudden cardiac death."
+          },
+          "images": []
+        },
+        {
+          "id": "cardiac-disorders--hypertension",
+          "condition": "Hypertension",
+          "cells": {
+            "Disorder": "Hypertension",
+            "Overview": "Chronic elevation of BP, leading to vascular damage and end-organ disease.",
+            "Risk Factors": "Non-modifiable: Age, CKD, family history, male sex.Modifiable: Obesity, DM, inactivity, OSA, alcohol, high sodium, smoking.",
+            "Key Diagnostics": "BP ≥130/80 (multiple visits).Labs: CMP, CBC, lipids, TSH, UA.EKG, echo, renal US if secondary.",
+            "Clinical Features": "Often asymptomatic; may cause HA, dizziness, vision changes, chest pain, dyspnea.",
+            "Management/Treatment": "Lifestyle: weight loss, ↓Na+, DASH diet, exercise, ↓ETOH.Pharm: Thiazide, ACE/ARB, CCB, BB (with comorbid).Resistant → add spironolactone.",
+            "Patient Education/Prevention": "Home BP monitoring, lifestyle adherence.",
+            "Referral/Complications": "Refer resistant HTN or secondary suspicion. Complications: MI, stroke, HF, CKD, aneurysm, retinopathy. Hospitalize hypertensive emergency."
+          },
+          "images": []
+        },
+        {
+          "id": "cardiac-disorders--coronary-artery-disease-cad",
+          "condition": "Coronary Artery Disease (CAD)",
+          "cells": {
+            "Disorder": "Coronary Artery Disease (CAD)",
+            "Overview": "Atherosclerotic obstruction of coronary arteries → angina, MI.",
+            "Risk Factors": "Same ASCVD risks: smoking, DM, HTN, dyslipidemia, age, family history.",
+            "Key Diagnostics": "ECG, stress test (exercise/nuclear/echo), coronary CT/MRI, angiography (gold standard).",
+            "Clinical Features": "Angina (chest pressure radiating to arm/jaw), SOB, fatigue, atypical sx in women.",
+            "Management/Treatment": "Lifestyle changes, ASA, statins, BB, ACE/ARB, nitrates, CCB, antiplatelets. Cardiac rehab.",
+            "Patient Education/Prevention": "Diet/exercise, med adherence, smoking cessation.",
+            "Referral/Complications": "Refer new angina, abnormal ECG/stress, suspected ACS. Complications: MI, arrhythmias, HF, sudden death."
+          },
+          "images": []
+        },
+        {
+          "id": "cardiac-disorders--arrhythmias-afib-flutter",
+          "condition": "Arrhythmias (AFib/Flutter)",
+          "cells": {
+            "Disorder": "Arrhythmias (AFib/Flutter)",
+            "Overview": "Supraventricular arrhythmia with irregularly irregular rhythm; ↑ stroke risk.",
+            "Risk Factors": "Age, HTN, CAD, HF, valve disease, thyroid disease, obesity, alcohol.",
+            "Key Diagnostics": "ECG (no P waves, irregular RR), Holter monitor, TSH. CHA₂DS₂-VASc for stroke risk.",
+            "Clinical Features": "Palpitations, SOB, fatigue, dizziness, syncope, or asymptomatic.",
+            "Management/Treatment": "Rate control: BB, CCB, digoxin.Rhythm control: cardioversion, antiarrhythmics.Anticoagulation: NOACs, warfarin.",
+            "Patient Education/Prevention": "Avoid alcohol, caffeine, stimulants. Monitor HR and sx.",
+            "Referral/Complications": "Refer new AFib, refractory, symptomatic. Hospitalize unstable cases. Complications: stroke, HF, embolism."
+          },
+          "images": []
+        },
+        {
+          "id": "cardiac-disorders--valvular-heart-disease-vhd",
+          "condition": "Valvular Heart Disease (VHD)",
+          "cells": {
+            "Disorder": "Valvular Heart Disease (VHD)",
+            "Overview": "Abnormal valve structure/function (stenosis or regurgitation).",
+            "Risk Factors": "Rheumatic fever, IV drug use, congenital disease, age-related degeneration.",
+            "Key Diagnostics": "New murmur, echo (gold standard), cardiac MRI.",
+            "Clinical Features": "DOE, chest pain, syncope, HF sx, murmur.",
+            "Management/Treatment": "GDMT for HF sx, surgical repair/replacement for severe disease.",
+            "Patient Education/Prevention": "Dental hygiene, med adherence, avoid IV drug use.",
+            "Referral/Complications": "Refer new murmur, symptomatic, severe VHD. Hospitalize if unstable. Complications: HF, arrhythmia, sudden death."
+          },
+          "images": []
+        },
+        {
+          "id": "cardiac-disorders--heart-failure-hfpef-hfref",
+          "condition": "Heart Failure (HFpEF & HFrEF)",
+          "cells": {
+            "Disorder": "Heart Failure (HFpEF & HFrEF)",
+            "Overview": "Syndrome of impaired ventricular filling (HFpEF) or ejection (HFrEF).",
+            "Risk Factors": "HTN, CAD, DM, obesity, AFib, OSA, valve disease.",
+            "Key Diagnostics": "BNP/NT-proBNP, ECG, echo (EF <40% = HFrEF; >50% = HFpEF).",
+            "Clinical Features": "Dyspnea, orthopnea, edema, ascites, fatigue.",
+            "Management/Treatment": "HFrEF: ARNI/ACE/ARB, BB, aldosterone antagonist, SGLT2i, diuretics.HFpEF: risk factor control, diuretics, BP mgmt.",
+            "Patient Education/Prevention": "Daily weights, sodium restriction, med adherence.",
+            "Referral/Complications": "Refer new or moderate-severe, unclear etiology, refractory. Hospitalize decompensated HF. Complications: arrhythmia, renal failure, sudden death."
+          },
+          "images": [
+            {
+              "file": "/images/cardiac-disorders-heart-failure-hfpef-hfref-1.jpg",
+              "alt": "Right vs. Left Heart Failure | The Only ...",
+              "column": "Disorder"
+            }
+          ]
+        },
+        {
+          "id": "cardiac-disorders--peripheral-vascular-disease-pad-venous-d",
+          "condition": "Peripheral Vascular Disease (PAD & Venous Disease)",
+          "cells": {
+            "Disorder": "Peripheral Vascular Disease (PAD & Venous Disease)",
+            "Overview": "PAD = arterial narrowing of extremities; Venous = chronic insufficiency.",
+            "Risk Factors": "Smoking, DM, dyslipidemia, HTN, obesity, inactivity, age.",
+            "Key Diagnostics": "ABI (<0.9 = PAD), duplex US, CTA/MRA.",
+            "Clinical Features": "PAD: intermittent claudication, wounds.Venous: edema, varicosities, leg aches, skin changes.",
+            "Management/Treatment": "PAD: smoking cessation, statins, antiplatelets, supervised exercise, revascularization.Venous: compression stockings, leg elevation, exercise.",
+            "Patient Education/Prevention": "Foot care, smoking cessation, exercise, compression stockings.",
+            "Referral/Complications": "Refer critical limb ischemia, ulcers, severe sx. Complications: gangrene, amputation, venous ulcers, DVT."
+          },
+          "images": []
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "pvd-disorders",
+      "title": "PVD Disorders",
+      "columns": [
+        "Disorder",
+        "What it is",
+        "Risk Factors",
+        "Clinical Presentation",
+        "Diagnostics",
+        "Management (Non-Pharm + Pharm)"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "pvd-disorders--peripheral-artery-disease-pad",
+          "condition": "Peripheral Artery Disease (PAD)",
+          "cells": {
+            "Disorder": "Peripheral Artery Disease (PAD)",
+            "What it is": "Atherosclerotic narrowing of lower extremity arteries",
+            "Risk Factors": "Smoking, DM, HTN, HLD, obesity, age ≥65, FHx CVD",
+            "Clinical Presentation": "Intermittent claudication, rest pain, ulcers, gangrene, dependent rubor, trophic changes",
+            "Diagnostics": "ABI <0.9, Arterial duplex, CTA/MRA, angiography",
+            "Management (Non-Pharm + Pharm)": "Lifestyle: smoking cessation, exercise therapy, foot care.Pharm: Statins (↓ LDL <70), Antiplatelets (ASA, clopidogrel), Cilostazol (improves claudication; avoid in HF).Procedures: angioplasty/stenting, bypass for critical limb ischemia."
+          },
+          "images": []
+        },
+        {
+          "id": "pvd-disorders--carotid-artery-disease",
+          "condition": "Carotid Artery Disease",
+          "cells": {
+            "Disorder": "Carotid Artery Disease",
+            "What it is": "Atherosclerosis of carotids → stroke/TIA risk",
+            "Risk Factors": "HTN, HLD, DM, smoking",
+            "Clinical Presentation": "Often silent; may present with TIA/stroke sx (weakness, speech, vision loss)",
+            "Diagnostics": "Carotid duplex, CTA/MRA",
+            "Management (Non-Pharm + Pharm)": "Lifestyle: smoking cessation, diet/exercise.Pharm: Statins (LDL <70), Antiplatelets (ASA, clopidogrel), Antihypertensives (ACEi/ARB, BB, thiazides).Surgery: Carotid endarterectomy/stenting if ≥50% symptomatic or ≥70% asymptomatic."
+          },
+          "images": []
+        },
+        {
+          "id": "pvd-disorders--thoracic-aortic-aneurysm-taa",
+          "condition": "Thoracic Aortic Aneurysm (TAA)",
+          "cells": {
+            "Disorder": "Thoracic Aortic Aneurysm (TAA)",
+            "What it is": "Dilation of thoracic aorta (ascending, arch, descending)",
+            "Risk Factors": "Genetic syndromes, bicuspid AV, HTN, smoking",
+            "Clinical Presentation": "Often asymptomatic; may cause chest/back pain, compressive sx",
+            "Diagnostics": "CTA, MRA, echo",
+            "Management (Non-Pharm + Pharm)": "Lifestyle: smoking cessation, risk factor control.Pharm: BP control with Beta-blockers (↓ wall stress), ARBs (esp. Marfan/Loeys-Dietz). Statins.Surgery: repair if ≥5.5 cm or rapid growth."
+          },
+          "images": []
+        },
+        {
+          "id": "pvd-disorders--abdominal-aortic-aneurysm-aaa",
+          "condition": "Abdominal Aortic Aneurysm (AAA)",
+          "cells": {
+            "Disorder": "Abdominal Aortic Aneurysm (AAA)",
+            "What it is": "Dilation of abdominal aorta (usually infrarenal)",
+            "Risk Factors": "Smoking, male sex, HTN, age, FHx, COPD",
+            "Clinical Presentation": "Often asymptomatic; pulsatile abdominal mass; rupture = hypotension, shock",
+            "Diagnostics": "Abdominal US (screening), CTA/MRA",
+            "Management (Non-Pharm + Pharm)": "Lifestyle: smoking cessation.Pharm: Statins, Antihypertensives (esp. BB, ACE/ARB).Surgery: repair if >5.0–5.5 cm, symptomatic, or enlarging."
+          },
+          "images": []
+        },
+        {
+          "id": "pvd-disorders--aortic-dissection",
+          "condition": "Aortic Dissection",
+          "cells": {
+            "Disorder": "Aortic Dissection",
+            "What it is": "Tear in intima → false lumen",
+            "Risk Factors": "HTN, connective tissue disorders, bicuspid AV, cocaine",
+            "Clinical Presentation": "Sudden severe chest/back pain, shock, neuro deficits",
+            "Diagnostics": "CTA (gold), TEE, MRI",
+            "Management (Non-Pharm + Pharm)": "Acute Rx: IV Beta-blockers (labetalol, esmolol) for HR/BP control; add vasodilators (nitroprusside) after BB.Type A: emergent surgery.Type B: medical therapy unless unstable → TEVAR."
+          },
+          "images": []
+        },
+        {
+          "id": "pvd-disorders--deep-vein-thrombosis-dvt",
+          "condition": "Deep Vein Thrombosis (DVT)",
+          "cells": {
+            "Disorder": "Deep Vein Thrombosis (DVT)",
+            "What it is": "Thrombus in deep leg/arm veins",
+            "Risk Factors": "Virchow’s triad (stasis, injury, hypercoag), malignancy, surgery, OCP, pregnancy",
+            "Clinical Presentation": "Unilateral swelling, pain, warmth, erythema",
+            "Diagnostics": "Venous duplex, D-dimer",
+            "Management (Non-Pharm + Pharm)": "Lifestyle: ambulation, compression stockings.Pharm: Anticoagulation (DOACs [apixaban, rivaroxaban], LMWH, warfarin). Thrombolysis (tPA) if massive iliofemoral DVT."
+          },
+          "images": []
+        },
+        {
+          "id": "pvd-disorders--superficial-vein-thrombosis-svt",
+          "condition": "Superficial Vein Thrombosis (SVT)",
+          "cells": {
+            "Disorder": "Superficial Vein Thrombosis (SVT)",
+            "What it is": "Thrombus in superficial veins (saphenous, cephalic, basilic)",
+            "Risk Factors": "Varicosities, IV catheters, trauma, malignancy",
+            "Clinical Presentation": "Palpable cord, erythema, tenderness",
+            "Diagnostics": "Clinical, duplex if extension suspected",
+            "Management (Non-Pharm + Pharm)": "Lifestyle: leg elevation, warm compress, compression stockings.Pharm: Anticoagulation (fondaparinux, LMWH, DOAC) if >5 cm or near deep system. NSAIDs for pain."
+          },
+          "images": [
+            {
+              "file": "/images/pvd-disorders-superficial-vein-thrombosis-sv-1.jpg",
+              "alt": "Superficial Thrombophlebitis ...",
+              "column": "Disorder"
+            }
+          ]
+        },
+        {
+          "id": "pvd-disorders--pulmonary-embolism-pe",
+          "condition": "Pulmonary Embolism (PE)",
+          "cells": {
+            "Disorder": "Pulmonary Embolism (PE)",
+            "What it is": "Embolus (usually from DVT) in pulmonary arteries",
+            "Risk Factors": "Same as DVT",
+            "Clinical Presentation": "Dyspnea, chest pain, tachycardia, hemoptysis, syncope",
+            "Diagnostics": "CTA (gold), V/Q scan, D-dimer, echo",
+            "Management (Non-Pharm + Pharm)": "Pharm: Anticoagulation (DOACs, LMWH, warfarin). Thrombolysis (tPA) if massive/submassive PE. IV heparin bridge if unstable."
+          },
+          "images": []
+        },
+        {
+          "id": "pvd-disorders--chronic-venous-insufficiency-cvi",
+          "condition": "Chronic Venous Insufficiency (CVI)",
+          "cells": {
+            "Disorder": "Chronic Venous Insufficiency (CVI)",
+            "What it is": "Venous valve incompetence → reflux/pooling",
+            "Risk Factors": "Pregnancy, obesity, prolonged standing, DVT hx, FHx",
+            "Clinical Presentation": "Leg edema, varicosities, hyperpigmentation, venous stasis ulcers",
+            "Diagnostics": "Clinical, venous duplex",
+            "Management (Non-Pharm + Pharm)": "Lifestyle: leg elevation, weight loss, exercise, compression stockings.Pharm: Venoactive drugs (micronized flavonoids – not FDA standard). Anticoagulation not routine unless DVT hx.Procedures: endovenous ablation, sclerotherapy, phlebectomy."
+          },
+          "images": []
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "gi-disorders",
+      "title": "GI Disorders",
+      "columns": [
+        "Condition",
+        "Definition",
+        "Clinical Presentation",
+        "Diagnostics",
+        "Treatment (Specific Meds/Doses)",
+        "Patient Education"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "gi-disorders--appendicitis",
+          "condition": "Appendicitis",
+          "cells": {
+            "Condition": "Appendicitis",
+            "Definition": "Obstruction → inflammation of appendix.",
+            "Clinical Presentation": "Periumbilical → RLQ pain (McBurney’s), fever, N/V, rebound, guarding.",
+            "Diagnostics": "Ultrasound (peds/pregnancy), CT abdomen (adults), ↑WBC.",
+            "Treatment (Specific Meds/Doses)": "Surgical referral; IV Ceftriaxone 1 g + Metronidazole 500 mg pre-op.",
+            "Patient Education": "Seek emergency care for fever/worsening pain; NPO until evaluated."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-disorders--cholecystitis",
+          "condition": "Cholecystitis",
+          "cells": {
+            "Condition": "Cholecystitis",
+            "Definition": "Cystic duct obstruction → gallbladder inflammation.",
+            "Clinical Presentation": "RUQ pain radiating to shoulder, fever, Murphy’s sign.",
+            "Diagnostics": "RUQ ultrasound, ↑WBC, HIDA if unclear.",
+            "Treatment (Specific Meds/Doses)": "Ceftriaxone 1 g IV daily + Metronidazole 500 mg IV q8h; surgery.",
+            "Patient Education": "Avoid fatty meals; return if fever/chills."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-disorders--peritonitis",
+          "condition": "Peritonitis",
+          "cells": {
+            "Condition": "Peritonitis",
+            "Definition": "Inflammation of peritoneum (usually infection/perforation).",
+            "Clinical Presentation": "Severe diffuse abdominal pain, rigid abdomen, rebound, fever.",
+            "Diagnostics": "CBC, CMP, CT abdomen with contrast.",
+            "Treatment (Specific Meds/Doses)": "Broad-spectrum IV abx (Piperacillin–Tazobactam 3.375 g q6h)**; surgical emergency.",
+            "Patient Education": "Medical emergency—do not eat/drink; seek immediate care."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-disorders--acute-pancreatitis",
+          "condition": "Acute Pancreatitis",
+          "cells": {
+            "Condition": "Acute Pancreatitis",
+            "Definition": "Pancreatic inflammation from gallstones or alcohol.",
+            "Clinical Presentation": "Sudden severe epigastric pain radiating to back; N/V; worse supine.",
+            "Diagnostics": "Lipase ↑↑; CT if unclear.",
+            "Treatment (Specific Meds/Doses)": "Lactated Ringer’s 250–500 mL/hr, Morphine 2–4 mg IV, NPO.",
+            "Patient Education": "Avoid alcohol; low-fat diet after recovery."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-disorders--chronic-pancreatitis",
+          "condition": "Chronic Pancreatitis",
+          "cells": {
+            "Condition": "Chronic Pancreatitis",
+            "Definition": "Progressive pancreatic fibrosis.",
+            "Clinical Presentation": "Chronic epigastric pain, steatorrhea, weight loss.",
+            "Diagnostics": "CT or MRCP.",
+            "Treatment (Specific Meds/Doses)": "Pancrelipase with meals, analgesics.",
+            "Patient Education": "Low-fat diet; avoid alcohol strictly."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-disorders--constipation",
+          "condition": "Constipation",
+          "cells": {
+            "Condition": "Constipation",
+            "Definition": "<3 stools/week or hard stools.",
+            "Clinical Presentation": "Straining, bloating.",
+            "Diagnostics": "Rule out obstruction; TSH if chronic.",
+            "Treatment (Specific Meds/Doses)": "Polyethylene glycol 17 g daily, Senna 8.6 mg HS.",
+            "Patient Education": "Increase water, fiber, activity."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-disorders--gi-bleed-upper",
+          "condition": "GI Bleed (Upper)",
+          "cells": {
+            "Condition": "GI Bleed (Upper)",
+            "Definition": "Bleeding from esophagus, stomach, duodenum.",
+            "Clinical Presentation": "Hematemesis, melena, dizziness.",
+            "Diagnostics": "CBC, stool occult, EGD.",
+            "Treatment (Specific Meds/Doses)": "Pantoprazole 80 mg IV bolus → 8 mg/hr infusion.",
+            "Patient Education": "Report black stools or vomiting blood immediately."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-disorders--rectal-bleed-lower-gi",
+          "condition": "Rectal Bleed (Lower GI)",
+          "cells": {
+            "Condition": "Rectal Bleed (Lower GI)",
+            "Definition": "Bleeding from colon, rectum, hemorrhoids, etc.",
+            "Clinical Presentation": "Bright red blood, rectal pain or none.",
+            "Diagnostics": "Anoscopy, colonoscopy.",
+            "Treatment (Specific Meds/Doses)": "Treat cause: hemorrhoids—hydrocortisone suppository; diverticular bleed—ER referral.",
+            "Patient Education": "Increase fiber; report heavy bleeding."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-disorders--gerd",
+          "condition": "GERD",
+          "cells": {
+            "Condition": "GERD",
+            "Definition": "Reflux of stomach acid into esophagus.",
+            "Clinical Presentation": "Heartburn, regurgitation, chronic cough.",
+            "Diagnostics": "Clinical; EGD if red flags.",
+            "Treatment (Specific Meds/Doses)": "Omeprazole 20–40 mg daily x 4–8 weeks.",
+            "Patient Education": "Avoid trigger foods, late meals, elevate HOB."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-disorders--peptic-ulcer-disease",
+          "condition": "Peptic Ulcer Disease",
+          "cells": {
+            "Condition": "Peptic Ulcer Disease",
+            "Definition": "Ulceration of stomach or duodenum.",
+            "Clinical Presentation": "Burning epigastric pain; duodenal improves w/ food.",
+            "Diagnostics": "H. pylori testing, EGD.",
+            "Treatment (Specific Meds/Doses)": "PPI: Omeprazole 20–40 mg daily; if H. pylori positive → triple therapy.",
+            "Patient Education": "Avoid NSAIDs, alcohol; complete antibiotic regimen."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-disorders--h-pylori-infection",
+          "condition": "H. pylori Infection",
+          "cells": {
+            "Condition": "H. pylori Infection",
+            "Definition": "Gram-negative bacteria causing ulcers.",
+            "Clinical Presentation": "Epigastric pain, nausea, bloating.",
+            "Diagnostics": "Stool antigen or urea breath test.",
+            "Treatment (Specific Meds/Doses)": "Triple Therapy x14 days: Omeprazole 20 mg BID + Amoxicillin 1 g BID + Clarithromycin 500 mg BID.",
+            "Patient Education": "Retest 4 weeks post-treatment; no PPIs 2 weeks before retesting."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-disorders--celiac-disease-celiac-sprue",
+          "condition": "Celiac Disease (Celiac Sprue)",
+          "cells": {
+            "Condition": "Celiac Disease (Celiac Sprue)",
+            "Definition": "Autoimmune gluten intolerance causing villous atrophy.",
+            "Clinical Presentation": "Diarrhea, bloating, weight loss, dermatitis herpetiformis.",
+            "Diagnostics": "tTG-IgA, EMA antibodies, small bowel biopsy.",
+            "Treatment (Specific Meds/Doses)": "Strict gluten-free diet.",
+            "Patient Education": "Avoid wheat, barley, rye; check labels for hidden gluten."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-disorders--ibs-irritable-bowel-syndrome",
+          "condition": "IBS (Irritable Bowel Syndrome)",
+          "cells": {
+            "Condition": "IBS (Irritable Bowel Syndrome)",
+            "Definition": "Functional bowel disorder.",
+            "Clinical Presentation": "Abdominal pain + change in stool (constipation, diarrhea, or mixed).",
+            "Diagnostics": "Rome IV criteria; normal labs; colonoscopy if red flags.",
+            "Treatment (Specific Meds/Doses)": "IBS-C: Linaclotide 145 mcg daily. IBS-D: Loperamide 2–4 mg PRN, Dicyclomine 20 mg QID.",
+            "Patient Education": "Low FODMAP diet; stress management; fiber supplementation for IBS-C."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-disorders--ibd-crohn-s-ulcerative-colitis",
+          "condition": "IBD (Crohn’s & Ulcerative Colitis)",
+          "cells": {
+            "Condition": "IBD (Crohn’s & Ulcerative Colitis)",
+            "Definition": "Autoimmune chronic GI inflammation.",
+            "Clinical Presentation": "Bloody diarrhea (UC), RLQ pain (Crohn’s), weight loss.",
+            "Diagnostics": "Colonoscopy w/ biopsy.",
+            "Treatment (Specific Meds/Doses)": "Mesalamine 2.4–4.8 g/day (UC), Budesonide 9 mg/day (Crohn’s), biologics (Adalimumab) if severe.",
+            "Patient Education": "Avoid NSAIDs; monitor for dehydration; smoking cessation (Crohn’s improved)."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-disorders--diverticulosis",
+          "condition": "Diverticulosis",
+          "cells": {
+            "Condition": "Diverticulosis",
+            "Definition": "Presence of colonic diverticula.",
+            "Clinical Presentation": "Usually asymptomatic; may have painless rectal bleeding.",
+            "Diagnostics": "Colonoscopy.",
+            "Treatment (Specific Meds/Doses)": "Increase fiber 20–30 g/day.",
+            "Patient Education": "Hydration; fiber daily."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-disorders--diverticulitis",
+          "condition": "Diverticulitis",
+          "cells": {
+            "Condition": "Diverticulitis",
+            "Definition": "Infection/inflammation of diverticula.",
+            "Clinical Presentation": "LLQ pain, fever, N/V.",
+            "Diagnostics": "CT abdomen w/ contrast.",
+            "Treatment (Specific Meds/Doses)": "Amoxicillin-clavulanate 875/125 mg BID x 7–10 days OR Cipro 500 mg BID + Metronidazole 500 mg TID.",
+            "Patient Education": "Clear liquids 24–48 hr then advance diet; return if fever/worsening pain."
+          },
+          "images": []
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "gi-infections-liver-disorders-gi-cancers",
+      "title": "GI Infections, Liver disorders, GI cancers",
+      "columns": [
+        "Condition",
+        "Definition",
+        "Clinical Presentation",
+        "Diagnostics",
+        "Treatment (Specific Meds/Doses)",
+        "Patient Education"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "gi-infections-liver-disorders-gi-cancers--viral-gastroenteritis",
+          "condition": "Viral Gastroenteritis",
+          "cells": {
+            "Condition": "Viral Gastroenteritis",
+            "Definition": "Infection of stomach/intestines (usually norovirus, rotavirus).",
+            "Clinical Presentation": "N/V/D, cramps, low-grade fever.",
+            "Diagnostics": "Clinical.",
+            "Treatment (Specific Meds/Doses)": "Oral rehydration, Ondansetron 4 mg ODT q8h PRN.",
+            "Patient Education": "Hydration; handwashing; avoid dairy temporarily."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-infections-liver-disorders-gi-cancers--bacterial-gastroenteritis",
+          "condition": "Bacterial Gastroenteritis",
+          "cells": {
+            "Condition": "Bacterial Gastroenteritis",
+            "Definition": "Foodborne bacterial infection.",
+            "Clinical Presentation": "Bloody diarrhea (E. coli, Shigella), fever.",
+            "Diagnostics": "Stool culture, stool PCR.",
+            "Treatment (Specific Meds/Doses)": "Avoid antibiotics in O157:H7; others: Ciprofloxacin 500 mg BID x 3 days.",
+            "Patient Education": "Avoid high-risk foods; hydration."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-infections-liver-disorders-gi-cancers--hepatitis-a",
+          "condition": "Hepatitis A",
+          "cells": {
+            "Condition": "Hepatitis A",
+            "Definition": "Fecal-oral viral liver infection.",
+            "Clinical Presentation": "Fever, fatigue, jaundice, RUQ pain.",
+            "Diagnostics": "HAV IgM.",
+            "Treatment (Specific Meds/Doses)": "Supportive only.",
+            "Patient Education": "Vaccination; avoid alcohol."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-infections-liver-disorders-gi-cancers--hepatitis-b",
+          "condition": "Hepatitis B",
+          "cells": {
+            "Condition": "Hepatitis B",
+            "Definition": "Blood/sexual transmission viral hepatitis.",
+            "Clinical Presentation": "Fatigue, jaundice, dark urine.",
+            "Diagnostics": "HBsAg, HBsAb, HBcAb.",
+            "Treatment (Specific Meds/Doses)": "Tenofovir 300 mg daily for chronic infection.",
+            "Patient Education": "Safe sex, vaccinate close contacts, avoid alcohol."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-infections-liver-disorders-gi-cancers--hepatitis-c",
+          "condition": "Hepatitis C",
+          "cells": {
+            "Condition": "Hepatitis C",
+            "Definition": "Bloodborne viral infection.",
+            "Clinical Presentation": "Often asymptomatic; chronic liver disease.",
+            "Diagnostics": "HCV antibody → HCV RNA.",
+            "Treatment (Specific Meds/Doses)": "Epclusa (sofosbuvir/velpatasvir) 1 tab daily x 12 wks.",
+            "Patient Education": "Avoid alcohol; screen for cirrhosis; safe sex."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-infections-liver-disorders-gi-cancers--hepatitis-d-e",
+          "condition": "Hepatitis D/E",
+          "cells": {
+            "Condition": "Hepatitis D/E",
+            "Definition": "D requires HBV; E fecal-oral (pregnancy risk).",
+            "Clinical Presentation": "Acute hepatitis symptoms.",
+            "Diagnostics": "Hep D antigen/antibody; HEV IgM.",
+            "Treatment (Specific Meds/Doses)": "Supportive.",
+            "Patient Education": "Vaccinate against HBV (prevents HDV)."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-infections-liver-disorders-gi-cancers--nafld-non-alcoholic-fatty-liver-disease",
+          "condition": "NAFLD (Non-alcoholic Fatty Liver Disease)",
+          "cells": {
+            "Condition": "NAFLD (Non-alcoholic Fatty Liver Disease)",
+            "Definition": "Fat accumulation without alcohol.",
+            "Clinical Presentation": "Usually asymptomatic; RUQ discomfort.",
+            "Diagnostics": "Elevated ALT>AST; ultrasound shows fatty liver.",
+            "Treatment (Specific Meds/Doses)": "Weight loss (7–10%), control DM/lipids; Vitamin E 800 IU/day (non-diabetic).",
+            "Patient Education": "Avoid alcohol; Mediterranean diet; exercise."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-infections-liver-disorders-gi-cancers--esophageal-cancer",
+          "condition": "Esophageal Cancer",
+          "cells": {
+            "Condition": "Esophageal Cancer",
+            "Definition": "Malignancy of esophagus.",
+            "Clinical Presentation": "Progressive dysphagia, weight loss.",
+            "Diagnostics": "EGD with biopsy.",
+            "Treatment (Specific Meds/Doses)": "Oncology referral; surgery/chemo/radiation.",
+            "Patient Education": "Avoid smoking/alcohol; report swallowing trouble early."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-infections-liver-disorders-gi-cancers--gastric-cancer",
+          "condition": "Gastric Cancer",
+          "cells": {
+            "Condition": "Gastric Cancer",
+            "Definition": "Malignancy of stomach.",
+            "Clinical Presentation": "Early satiety, weight loss, epigastric pain.",
+            "Diagnostics": "EGD with biopsy.",
+            "Treatment (Specific Meds/Doses)": "Oncology referral.",
+            "Patient Education": "H. pylori eradication reduces risk."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-infections-liver-disorders-gi-cancers--colon-cancer",
+          "condition": "Colon Cancer",
+          "cells": {
+            "Condition": "Colon Cancer",
+            "Definition": "Malignancy of colon/rectum.",
+            "Clinical Presentation": "Change in stool, blood in stool, anemia, weight loss.",
+            "Diagnostics": "Colonoscopy (gold standard).",
+            "Treatment (Specific Meds/Doses)": "Surgical resection + oncology.",
+            "Patient Education": "Screening starting at 45; family history screening earlier."
+          },
+          "images": []
+        },
+        {
+          "id": "gi-infections-liver-disorders-gi-cancers--pancreatic-cancer",
+          "condition": "Pancreatic Cancer",
+          "cells": {
+            "Condition": "Pancreatic Cancer",
+            "Definition": "Malignancy of pancreas.",
+            "Clinical Presentation": "Painless jaundice, weight loss, back pain.",
+            "Diagnostics": "CT or MRCP.",
+            "Treatment (Specific Meds/Doses)": "Oncology referral.",
+            "Patient Education": "Avoid smoking; genetic screening if family history."
+          },
+          "images": []
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "male-gu-testicular",
+      "title": "Male GU: Testicular",
+      "columns": [
+        "Condition",
+        "Definition",
+        "Clinical Presentation",
+        "Diagnostics",
+        "Treatment (Specific Drugs/Doses When Applicable)",
+        "Patient Education"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "male-gu-testicular--testicular-cancer",
+          "condition": "Testicular Cancer",
+          "cells": {
+            "Condition": "Testicular Cancer",
+            "Definition": "Malignant tumor of the testicle, usually germ-cell.",
+            "Clinical Presentation": "Painless unilateral testicular mass; heaviness; sometimes gynecomastia.",
+            "Diagnostics": "Scrotal ultrasound (solid mass), AFP, β-hCG, LDH, CT pelvis/abdomen.",
+            "Treatment (Specific Drugs/Doses When Applicable)": "Urgent urology referral; orchiectomy. Chemo based on staging (cisplatin-based).",
+            "Patient Education": "Monthly testicular exams; excellent cure rate; importance of follow-up imaging."
+          },
+          "images": []
+        },
+        {
+          "id": "male-gu-testicular--testicular-torsion",
+          "condition": "Testicular Torsion",
+          "cells": {
+            "Condition": "Testicular Torsion",
+            "Definition": "Twisting of spermatic cord → ischemia. Surgical emergency.",
+            "Clinical Presentation": "Sudden severe unilateral pain, high-riding testicle, absent cremasteric reflex.",
+            "Diagnostics": "Doppler ultrasound (decreased flow). Clinical dx if high suspicion.",
+            "Treatment (Specific Drugs/Doses When Applicable)": "Immediate surgical detorsion + bilateral orchiopexy.",
+            "Patient Education": "Come to ED within hours of pain; fertility risk if delayed."
+          },
+          "images": []
+        },
+        {
+          "id": "male-gu-testicular--hydrocele",
+          "condition": "Hydrocele",
+          "cells": {
+            "Condition": "Hydrocele",
+            "Definition": "Fluid collection within tunica vaginalis.",
+            "Clinical Presentation": "Painless scrotal swelling; transilluminates.",
+            "Diagnostics": "Physical exam; scrotal ultrasound if unclear.",
+            "Treatment (Specific Drugs/Doses When Applicable)": "Observation if asymptomatic; surgical repair if large/symptomatic.",
+            "Patient Education": "Usually benign; monitor for size changes."
+          },
+          "images": []
+        },
+        {
+          "id": "male-gu-testicular--varicocele",
+          "condition": "Varicocele",
+          "cells": {
+            "Condition": "Varicocele",
+            "Definition": "Dilation of pampiniform plexus (“bag of worms”).",
+            "Clinical Presentation": "Dull ache; worse standing; left-sided > right.",
+            "Diagnostics": "Physical exam; ultrasound if uncertain.",
+            "Treatment (Specific Drugs/Doses When Applicable)": "Spermatic vein ligation or embolization if infertility/pain.",
+            "Patient Education": "Improves fertility; avoid prolonged standing."
+          },
+          "images": []
+        },
+        {
+          "id": "male-gu-testicular--spermatocele",
+          "condition": "Spermatocele",
+          "cells": {
+            "Condition": "Spermatocele",
+            "Definition": "Benign cyst of epididymal duct.",
+            "Clinical Presentation": "Smooth, painless, cystic mass superior to testicle.",
+            "Diagnostics": "Scrotal ultrasound.",
+            "Treatment (Specific Drugs/Doses When Applicable)": "Observation; spermatocelectomy if large/painful.",
+            "Patient Education": "Usually harmless; report enlarging masses."
+          },
+          "images": []
+        },
+        {
+          "id": "male-gu-testicular--epididymitis",
+          "condition": "Epididymitis",
+          "cells": {
+            "Condition": "Epididymitis",
+            "Definition": "Infection/inflammation of epididymis.",
+            "Clinical Presentation": "Gradual onset scrotal pain, + Prehn sign (relief w/ elevation), dysuria, fever.",
+            "Diagnostics": "UA, urine culture; test for GC/CT (NAAT); scrotal US if needed.",
+            "Treatment (Specific Drugs/Doses When Applicable)": "Age <35 (likely GC/CT): Ceftriaxone 500 mg IM once + Doxycycline 100 mg PO BID × 7 days. Age >35 (likely E. coli): Levofloxacin 500 mg PO daily × 10 days.",
+            "Patient Education": "Scrotal support; avoid intercourse until treated; finish all antibiotics."
+          },
+          "images": []
+        },
+        {
+          "id": "male-gu-testicular--orchitis",
+          "condition": "Orchitis",
+          "cells": {
+            "Condition": "Orchitis",
+            "Definition": "Testicular inflammation; often viral (mumps).",
+            "Clinical Presentation": "Testicular pain/swelling; fever; in mumps: parotitis.",
+            "Diagnostics": "Clinical; ultrasound to rule out torsion.",
+            "Treatment (Specific Drugs/Doses When Applicable)": "Viral: supportive. Bacterial: treat as epididymitis.",
+            "Patient Education": "MMR vaccine prevents mumps orchitis; supportive care."
+          },
+          "images": []
+        },
+        {
+          "id": "male-gu-testicular--hematocele",
+          "condition": "Hematocele",
+          "cells": {
+            "Condition": "Hematocele",
+            "Definition": "Blood in tunica vaginalis, usually trauma-related.",
+            "Clinical Presentation": "Painful swelling; does not transilluminate.",
+            "Diagnostics": "Scrotal ultrasound.",
+            "Treatment (Specific Drugs/Doses When Applicable)": "Rest, scrotal support; large cases → surgical drainage.",
+            "Patient Education": "Safety with sports; seek care for any testicular trauma."
+          },
+          "images": []
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "male-gu-prostate",
+      "title": "Male GU: Prostate",
+      "columns": [
+        "Condition",
+        "Definition",
+        "Clinical Presentation",
+        "Diagnostics",
+        "Treatment (Specific Drug/Dose)",
+        "Patient Education"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "male-gu-prostate--benign-prostatic-hyperplasia-bph",
+          "condition": "Benign Prostatic Hyperplasia (BPH)",
+          "cells": {
+            "Condition": "Benign Prostatic Hyperplasia (BPH)",
+            "Definition": "Non-malignant enlargement of prostate.",
+            "Clinical Presentation": "Urinary hesitancy, weak stream, nocturia, incomplete emptying.",
+            "Diagnostics": "DRE, PSA (optional), UA, post-void residual, IPSS score.",
+            "Treatment (Specific Drug/Dose)": "Tamsulosin 0.4 mg PO daily; Finasteride 5 mg PO daily for large prostates; Refractory → TURP.",
+            "Patient Education": "Avoid evening fluids/caffeine; meds take weeks to work; orthostatic precautions."
+          },
+          "images": []
+        },
+        {
+          "id": "male-gu-prostate--prostate-cancer",
+          "condition": "Prostate Cancer",
+          "cells": {
+            "Condition": "Prostate Cancer",
+            "Definition": "Adenocarcinoma of prostate.",
+            "Clinical Presentation": "Often asymptomatic; obstructive symptoms late; bone pain in metastasis.",
+            "Diagnostics": "PSA, DRE, prostate MRI, biopsy (definitive).",
+            "Treatment (Specific Drug/Dose)": "Based on risk: surgery, radiation, androgen deprivation (Leuprolide 7.5 mg IM monthly).",
+            "Patient Education": "Discuss screening; treatment may cause sexual/urinary side effects."
+          },
+          "images": []
+        },
+        {
+          "id": "male-gu-prostate--prostatitis-acute-bacterial",
+          "condition": "Prostatitis (Acute Bacterial)",
+          "cells": {
+            "Condition": "Prostatitis (Acute Bacterial)",
+            "Definition": "Infection/inflammation of prostate.",
+            "Clinical Presentation": "Fever, perineal pain, urinary retention, boggy tender prostate.",
+            "Diagnostics": "UA + culture; do not massage prostate.",
+            "Treatment (Specific Drug/Dose)": "Ciprofloxacin 500 mg PO BID × 4–6 weeks or TMP-SMX DS BID × 4–6 weeks.",
+            "Patient Education": "Complete full therapy; warm baths; avoid irritants (caffeine, alcohol)."
+          },
+          "images": []
+        },
+        {
+          "id": "male-gu-prostate--prostatitis-chronic",
+          "condition": "Prostatitis (Chronic)",
+          "cells": {
+            "Condition": "Prostatitis (Chronic)",
+            "Definition": "Chronic pelvic pain w/ recurrent infections.",
+            "Clinical Presentation": "Recurrent UTIs, pelvic discomfort.",
+            "Diagnostics": "UA + culture; often normal.",
+            "Treatment (Specific Drug/Dose)": "Ciprofloxacin 500 mg PO BID × 4–6 weeks or add alpha-blocker.",
+            "Patient Education": "May take months to improve; stress/pelvic floor therapy helpful."
+          },
+          "images": []
+        },
+        {
+          "id": "male-gu-prostate--uti-male",
+          "condition": "UTI (Male)",
+          "cells": {
+            "Condition": "UTI (Male)",
+            "Definition": "Infection of urinary tract (E. coli most common).",
+            "Clinical Presentation": "Dysuria, frequency, urgency; fever if complicated.",
+            "Diagnostics": "UA + culture.",
+            "Treatment (Specific Drug/Dose)": "Nitrofurantoin 100 mg BID × 7 days (if uncomplicated) TMP-SMX DS BID × 7–14 days Ciprofloxacin 500 mg BID × 7 days (complicated).",
+            "Patient Education": "Hydration; avoid bladder irritants; finish antibiotics; return if fever or flank pain."
+          },
+          "images": []
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "male-gu-stds",
+      "title": "Male GU: STDs",
+      "columns": [
+        "Condition",
+        "Definition",
+        "Clinical Presentation",
+        "Diagnostics",
+        "Treatment (Drug + Dose)",
+        "Patient Education"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "male-gu-stds--chlamydia",
+          "condition": "Chlamydia",
+          "cells": {
+            "Condition": "Chlamydia",
+            "Definition": "Chlamydia trachomatis infection.",
+            "Clinical Presentation": "Often asymptomatic; dysuria, discharge, pelvic pain.",
+            "Diagnostics": "NAAT (urine or swab).",
+            "Treatment (Drug + Dose)": "Doxycycline 100 mg PO BID × 7 days.",
+            "Patient Education": "Treat partners; abstain 7 days; retest in 3 months."
+          },
+          "images": []
+        },
+        {
+          "id": "male-gu-stds--gonorrhea",
+          "condition": "Gonorrhea",
+          "cells": {
+            "Condition": "Gonorrhea",
+            "Definition": "N. gonorrhoeae infection.",
+            "Clinical Presentation": "Purulent discharge; dysuria; pelvic pain.",
+            "Diagnostics": "NAAT.",
+            "Treatment (Drug + Dose)": "Ceftriaxone 500 mg IM once (+ doxycycline if chlamydia not excluded).",
+            "Patient Education": "Treat partners; no sex for 7 days; retest if symptoms persist."
+          },
+          "images": []
+        },
+        {
+          "id": "male-gu-stds--trichomoniasis",
+          "condition": "Trichomoniasis",
+          "cells": {
+            "Condition": "Trichomoniasis",
+            "Definition": "Protozoan infection (T. vaginalis).",
+            "Clinical Presentation": "Green frothy discharge, strawberry cervix, itching.",
+            "Diagnostics": "NAAT or wet mount.",
+            "Treatment (Drug + Dose)": "Metronidazole 500 mg PO BID × 7 days.",
+            "Patient Education": "No alcohol with metronidazole; treat partners; abstain 7 days."
+          },
+          "images": []
+        },
+        {
+          "id": "male-gu-stds--syphilis",
+          "condition": "Syphilis",
+          "cells": {
+            "Condition": "Syphilis",
+            "Definition": "Treponema pallidum.",
+            "Clinical Presentation": "Painless chancre (primary), rash on palms/soles (secondary).",
+            "Diagnostics": "RPR + confirmatory treponemal test.",
+            "Treatment (Drug + Dose)": "Penicillin G benzathine 2.4 million units IM once.",
+            "Patient Education": "Follow-up RPR titers; treat partners; avoid sex until cleared."
+          },
+          "images": []
+        },
+        {
+          "id": "male-gu-stds--herpes-hsv-1-2",
+          "condition": "Herpes (HSV-1/2)",
+          "cells": {
+            "Condition": "Herpes (HSV-1/2)",
+            "Definition": "Viral infection causing painful vesicles.",
+            "Clinical Presentation": "Painful grouped vesicles, ulcers, recurrent outbreaks.",
+            "Diagnostics": "PCR swab.",
+            "Treatment (Drug + Dose)": "Acyclovir 400 mg PO TID × 7–10 days (first episode).",
+            "Patient Education": "Avoid sex during outbreaks; condoms reduce but don’t eliminate risk."
+          },
+          "images": []
+        },
+        {
+          "id": "male-gu-stds--hpv-genital-warts",
+          "condition": "HPV (Genital Warts)",
+          "cells": {
+            "Condition": "HPV (Genital Warts)",
+            "Definition": "HPV types 6 & 11.",
+            "Clinical Presentation": "Soft, flesh-colored papules.",
+            "Diagnostics": "Clinical diagnosis.",
+            "Treatment (Drug + Dose)": "Imiquimod 5% cream TIW × up to 16 weeks OR cryotherapy.",
+            "Patient Education": "HPV vaccine; recurrence common; safe sex practices."
+          },
+          "images": []
+        },
+        {
+          "id": "male-gu-stds--hiv",
+          "condition": "HIV",
+          "cells": {
+            "Condition": "HIV",
+            "Definition": "Viral infection causing immunodeficiency.",
+            "Clinical Presentation": "Acute flu-like illness; chronic weight loss, infections.",
+            "Diagnostics": "HIV antigen/antibody test; confirmatory testing.",
+            "Treatment (Drug + Dose)": "ART started immediately (Biktarvy or equivalent first line).",
+            "Patient Education": "Lifelong therapy; prevent transmission; PrEP for partners."
+          },
+          "images": []
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "musculoskeletal-disorders",
+      "title": "Musculoskeletal Disorders",
+      "columns": [
+        "Disorder",
+        "Definition",
+        "Risk Factors",
+        "Clinical Presentation",
+        "Diagnosis",
+        "Pharmacologic Management",
+        "Non-Pharmacologic Management",
+        "Patient Education"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "musculoskeletal-disorders--osteoarthritis-oa",
+          "condition": "Osteoarthritis (OA)",
+          "cells": {
+            "Disorder": "Osteoarthritis (OA)",
+            "Definition": "Degenerative joint disease characterized by progressive loss of articular cartilage, osteophyte formation, subchondral bone thickening",
+            "Risk Factors": "Age >45, obesity, joint injury, repetitive microtrauma, muscle weakness, genetics",
+            "Clinical Presentation": "Gradual onset joint pain worsened by activity, morning stiffness <30 min, crepitus, decreased ROM, often asymmetrical",
+            "Diagnosis": "Clinical diagnosis; X-ray may show joint space narrowing, osteophytes, subchondral sclerosis",
+            "Pharmacologic Management": "NSAIDs (oral or topical), acetaminophen, intra-articular corticosteroids",
+            "Non-Pharmacologic Management": "Physical therapy, weight management, assistive devices, exercise (aerobic, strengthening)",
+            "Patient Education": "Chronic progressive disease, lifestyle modification, regular exercise, proper footwear, fall prevention"
+          },
+          "images": []
+        },
+        {
+          "id": "musculoskeletal-disorders--rheumatoid-arthritis-ra",
+          "condition": "Rheumatoid Arthritis (RA)",
+          "cells": {
+            "Disorder": "Rheumatoid Arthritis (RA)",
+            "Definition": "Autoimmune, chronic inflammatory disorder primarily affecting synovial joints",
+            "Risk Factors": "Female sex, age 40–60, positive family history, genetics",
+            "Clinical Presentation": "Symmetric polyarthritis, morning stiffness >1 hr, tender/swollen joints (MCP, PIP, wrists), fatigue, systemic symptoms (low-grade fever)",
+            "Diagnosis": "Clinical + lab: RF, ACPA, ESR/CRP; imaging: MRI early, X-ray shows erosions",
+            "Pharmacologic Management": "NSAIDs, low-dose corticosteroids, DMARDs (methotrexate, sulfasalazine), biologics (TNF-alpha inhibitors)",
+            "Non-Pharmacologic Management": "Rest, splints, PT/OT, adaptive devices, gentle exercise",
+            "Patient Education": "Disease education, self-management, medication adherence, monitor for flares, supportive resources"
+          },
+          "images": []
+        },
+        {
+          "id": "musculoskeletal-disorders--gout",
+          "condition": "Gout",
+          "cells": {
+            "Disorder": "Gout",
+            "Definition": "Metabolic disorder with monosodium urate crystal deposition causing inflammatory arthritis",
+            "Risk Factors": "Male sex, obesity, high purine diet, alcohol, renal insufficiency, medications (diuretics, cyclosporine)",
+            "Clinical Presentation": "Acute monoarticular joint pain (first MTP “podagra”), redness, swelling, warmth, pain at rest and with weight-bearing, chronic tophi in untreated cases",
+            "Diagnosis": "Synovial fluid crystal analysis (definitive), uric acid levels, imaging may show erosions",
+            "Pharmacologic Management": "NSAIDs (indomethacin), corticosteroids, colchicine (acute), allopurinol/probenecid/uricase (chronic)",
+            "Non-Pharmacologic Management": "Rest, ice, hydration, dietary modification",
+            "Patient Education": "Lifestyle changes, purine avoidance, weight management, alcohol moderation, trigger avoidance"
+          },
+          "images": []
+        },
+        {
+          "id": "musculoskeletal-disorders--osteoporosis",
+          "condition": "Osteoporosis",
+          "cells": {
+            "Disorder": "Osteoporosis",
+            "Definition": "Loss of bone mineral density leading to increased fracture risk",
+            "Risk Factors": "Female post-menopause, low body weight, smoking, alcohol, vitamin D/calcium deficiency, chronic corticosteroid use, age",
+            "Clinical Presentation": "Often asymptomatic until fracture; may present with vertebral compression fracture, height loss, stooped posture, back pain",
+            "Diagnosis": "DEXA scan (T-score ≤ -2.5), FRAX calculator for fracture risk",
+            "Pharmacologic Management": "Calcium + vitamin D supplementation, bisphosphonates (alendronate, risedronate), hormone therapy if indicated",
+            "Non-Pharmacologic Management": "Weight-bearing exercise, PT for balance/strength, fall prevention",
+            "Patient Education": "Long-term adherence to therapy, nutrition, exercise, fall prevention, smoking/alcohol moderation"
+          },
+          "images": []
+        },
+        {
+          "id": "musculoskeletal-disorders--bursitis",
+          "condition": "Bursitis",
+          "cells": {
+            "Disorder": "Bursitis",
+            "Definition": "Inflammation of a bursa (fluid-filled sac) near joints",
+            "Risk Factors": "Repetitive motion, trauma, obesity, inflammatory disorders",
+            "Clinical Presentation": "Localized pain, swelling, tenderness over bursa, worsens with movement",
+            "Diagnosis": "Clinical; ultrasound may assist",
+            "Pharmacologic Management": "NSAIDs",
+            "Non-Pharmacologic Management": "Rest, ice, compressive wraps, physical therapy, activity modification",
+            "Patient Education": "Avoid repetitive stress, use proper techniques, manage weight, self-monitor swelling"
+          },
+          "images": []
+        },
+        {
+          "id": "musculoskeletal-disorders--tendinitis-tendinopathy",
+          "condition": "Tendinitis/Tendinopathy",
+          "cells": {
+            "Disorder": "Tendinitis/Tendinopathy",
+            "Definition": "Inflammation or degeneration of a tendon due to overuse",
+            "Risk Factors": "Repetitive activity, poor conditioning, age",
+            "Clinical Presentation": "Pain over tendon, swelling, warmth, pain with active motion",
+            "Diagnosis": "Clinical; imaging if needed (US/MRI)",
+            "Pharmacologic Management": "NSAIDs, topical agents",
+            "Non-Pharmacologic Management": "Rest, stretching, strengthening, activity modification, PT",
+            "Patient Education": "Gradual return to activity, ergonomic adjustments, adherence to rehab program"
+          },
+          "images": []
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "pain-disorders",
+      "title": "Pain Disorders",
+      "columns": [
+        "Pain Type",
+        "Definition",
+        "Risk Factors",
+        "Clinical Presentation",
+        "Diagnosis",
+        "Pharmacologic Management",
+        "Non-Pharmacologic Management",
+        "Patient Education"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "pain-disorders--back-pain",
+          "condition": "Back Pain",
+          "cells": {
+            "Pain Type": "Back Pain",
+            "Definition": "Pain in cervical, thoracic, or lumbar spine; can be acute (<6 wks) or chronic (>12 wks)",
+            "Risk Factors": "Age, obesity, sedentary lifestyle, trauma, poor posture, heavy lifting",
+            "Clinical Presentation": "Localized or radiating pain, stiffness, limited ROM, radiculopathy (sciatica)",
+            "Diagnosis": "Clinical, imaging if red flags present (MRI, X-ray)",
+            "Pharmacologic Management": "NSAIDs, muscle relaxants, short-term opioids (rare)",
+            "Non-Pharmacologic Management": "PT, core strengthening, ergonomic modifications, heat/ice",
+            "Patient Education": "Posture, lifting techniques, exercise adherence, red-flag symptoms awareness"
+          },
+          "images": []
+        },
+        {
+          "id": "pain-disorders--knee-pain",
+          "condition": "Knee Pain",
+          "cells": {
+            "Pain Type": "Knee Pain",
+            "Definition": "Pain around knee joint, often from OA, meniscus injury, bursitis, patellofemoral pain",
+            "Risk Factors": "Age, obesity, previous injury, repetitive stress, overuse",
+            "Clinical Presentation": "Pain with weight-bearing, swelling, instability, locking/catching, morning stiffness",
+            "Diagnosis": "Clinical, X-ray for OA, MRI for meniscus/ligament",
+            "Pharmacologic Management": "NSAIDs, topical agents, intra-articular corticosteroids",
+            "Non-Pharmacologic Management": "PT, braces, activity modification, strengthening",
+            "Patient Education": "Weight management, exercise adherence, safe sports techniques"
+          },
+          "images": []
+        },
+        {
+          "id": "pain-disorders--shoulder-pain",
+          "condition": "Shoulder Pain",
+          "cells": {
+            "Pain Type": "Shoulder Pain",
+            "Definition": "Pain in glenohumeral or surrounding structures; rotator cuff or bursitis common",
+            "Risk Factors": "Overuse, trauma, age, poor posture",
+            "Clinical Presentation": "Pain with overhead activity, limited ROM, night pain, weakness",
+            "Diagnosis": "Clinical, X-ray, MRI if structural injury suspected",
+            "Pharmacologic Management": "NSAIDs, corticosteroid injection",
+            "Non-Pharmacologic Management": "PT, stretching, strengthening, activity modification",
+            "Patient Education": "Ergonomics, posture, activity pacing, proper exercise technique"
+          },
+          "images": []
+        },
+        {
+          "id": "pain-disorders--ankle-foot-pain",
+          "condition": "Ankle/Foot Pain",
+          "cells": {
+            "Pain Type": "Ankle/Foot Pain",
+            "Definition": "Pain from sprains, fractures, tendinitis, plantar fasciitis, neuromas",
+            "Risk Factors": "Trauma, repetitive stress, poor footwear, obesity, overuse",
+            "Clinical Presentation": "Swelling, redness, tenderness, limited ROM, plantar heel pain (fasciitis), burning/paresthesia (Morton’s neuroma)",
+            "Diagnosis": "Clinical, Ottawa ankle rules for fractures, X-ray/MRI if persistent",
+            "Pharmacologic Management": "NSAIDs, corticosteroid injections",
+            "Non-Pharmacologic Management": "RICE, bracing, PT, stretching (heel cord/plantar fascia), shoe modifications",
+            "Patient Education": "Footwear with arch support and wide toe box, gradual activity return, adherence to rehab"
+          },
+          "images": []
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "fractures",
+      "title": "Fractures",
+      "columns": [
+        "Fracture Type",
+        "Definition",
+        "Risk Factors",
+        "Clinical Presentation",
+        "Diagnosis",
+        "Pharmacologic Management",
+        "Non-Pharmacologic Management",
+        "Patient Education"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "fractures--hip-fracture",
+          "condition": "Hip Fracture",
+          "cells": {
+            "Fracture Type": "Hip Fracture",
+            "Definition": "Break of proximal femur",
+            "Risk Factors": "Age >65, osteoporosis, fall, low BMD, female sex",
+            "Clinical Presentation": "Pain in groin/hip, inability to bear weight, external rotation of leg, swelling",
+            "Diagnosis": "X-ray, CT if needed",
+            "Pharmacologic Management": "Pain management (acetaminophen, opioids short-term)",
+            "Non-Pharmacologic Management": "Surgical repair (ORIF, hip replacement), PT post-op",
+            "Patient Education": "Fall prevention, weight management, adherence to rehab, home safety"
+          },
+          "images": []
+        },
+        {
+          "id": "fractures--vertebral-compression",
+          "condition": "Vertebral Compression",
+          "cells": {
+            "Fracture Type": "Vertebral Compression",
+            "Definition": "Collapse of vertebral body",
+            "Risk Factors": "Osteoporosis, trauma, malignancy",
+            "Clinical Presentation": "Acute back pain, loss of height, kyphosis",
+            "Diagnosis": "X-ray, MRI if malignancy suspected",
+            "Pharmacologic Management": "NSAIDs, short-term opioids, bisphosphonates for underlying osteoporosis",
+            "Non-Pharmacologic Management": "Bracing, PT for posture/strength",
+            "Patient Education": "Fall prevention, bone health, medication adherence"
+          },
+          "images": []
+        },
+        {
+          "id": "fractures--colles-fracture",
+          "condition": "Colles Fracture",
+          "cells": {
+            "Fracture Type": "Colles Fracture",
+            "Definition": "Distal radius fracture (wrist)",
+            "Risk Factors": "Fall on outstretched hand, osteoporosis",
+            "Clinical Presentation": "Pain, swelling, dorsal wrist deformity (“dinner fork”)",
+            "Diagnosis": "X-ray",
+            "Pharmacologic Management": "NSAIDs, acetaminophen",
+            "Non-Pharmacologic Management": "Immobilization (cast/splint), PT after healing",
+            "Patient Education": "Fall prevention, safe techniques, bone health education"
+          },
+          "images": []
+        },
+        {
+          "id": "fractures--stress-fracture",
+          "condition": "Stress Fracture",
+          "cells": {
+            "Fracture Type": "Stress Fracture",
+            "Definition": "Microfracture from repetitive stress",
+            "Risk Factors": "Overuse, sudden training increase, osteoporosis",
+            "Clinical Presentation": "Localized pain worsening with activity, relieved by rest",
+            "Diagnosis": "X-ray (may need MRI/bone scan early)",
+            "Pharmacologic Management": "NSAIDs if needed",
+            "Non-Pharmacologic Management": "Activity modification, gradual return, PT",
+            "Patient Education": "Gradual training progression, proper footwear, bone health"
+          },
+          "images": []
+        },
+        {
+          "id": "fractures--greenstick-fracture",
+          "condition": "Greenstick Fracture",
+          "cells": {
+            "Fracture Type": "Greenstick Fracture",
+            "Definition": "Incomplete fracture in children",
+            "Risk Factors": "Age <10, trauma",
+            "Clinical Presentation": "Pain, swelling, limited ROM, visible bend",
+            "Diagnosis": "X-ray",
+            "Pharmacologic Management": "Pain control (acetaminophen/NSAIDs)",
+            "Non-Pharmacologic Management": "Immobilization (cast/splint)",
+            "Patient Education": "Safe play, adherence to cast care, follow-up X-ray"
+          },
+          "images": []
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "anemia",
+      "title": "Anemia",
+      "columns": [
+        "Condition",
+        "Definition / Overview",
+        "Diagnosis",
+        "Clinical Presentation",
+        "Pharmacologic Management",
+        "Non-Pharmacologic Management",
+        "Patient Education",
+        "Other Considerations"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "anemia--iron-deficiency-anemia",
+          "condition": "Iron-Deficiency Anemia\nMICROcytic Anemia",
+          "cells": {
+            "Condition": "Iron-Deficiency Anemia\nMICROcytic Anemia",
+            "Definition / Overview": "Anemia caused by insufficient iron for hemoglobin synthesis",
+            "Diagnosis": "CBC (low Hgb/Hct),\nLow Hgb (less than 12 or 13) \n low MCV (less than 80; microcytic), \nlow RBC\nlow ferritin < 30\nhigh TIBCl > 400\nTSAT < 20% \nSerum iron < 60\n\nANY of these findings should raise suspicion for iron deficiency",
+            "Clinical Presentation": "Fatigue, pallor, dizziness, pica, koilonychia, exertional dyspnea, bleeding, melena, tachycardia, GI distress, \n\nTypically an incidental finding!!",
+            "Pharmacologic Management": "First-line: Oral ferrous sulfate/gluconate/fumarate (manage GI se)- 3-6 months AFTER Hgb is met\n\nAlternatives: IV iron (if malabsorption or intolerance), Blood transfusion if severe\n\nKey tx indicatiors = anemia resolves upon iron admin, target ferritin = at least 50",
+            "Non-Pharmacologic Management": "Dietary modification: iron-rich foods (red meat, legumes, spinach), vitamin C to enhance absorption",
+            "Patient Education": "Take iron on empty stomach if tolerated, avoid antacids/tea with dose, expect dark stools, adherence critical for 3–6 months\n\nLong-term management - oral iron every 3 months, IV iron check after each course",
+            "Other Considerations": "NUMBER 1 DIFF is regular iron deficiency \n\nIron def w/o anemia = normal Hgb synthesis, clinical manifestations of anemia \n\nIron def w mild anemia = normocytic with a normal ARC, low ferritin/ Fe, increased transferring, increased unsat iron"
+          },
+          "images": []
+        },
+        {
+          "id": "anemia--vitamin-b12-deficiency-anemia",
+          "condition": "Vitamin B12 Deficiency Anemia\n\nMACROcytic Anemia \nMEGAloblastic",
+          "cells": {
+            "Condition": "Vitamin B12 Deficiency Anemia\n\nMACROcytic Anemia \nMEGAloblastic",
+            "Definition / Overview": "Anemia due to inadequate B12 causing impaired DNA synthesis",
+            "Diagnosis": "CBC (macrocytic anemia)\nhigh MCV >100\nlow serum B12\nelevated homocysteine/methylmalonic acid",
+            "Clinical Presentation": "Fatigue, pallor, glossitis, neuropathy (paresthesia), gait disturbances",
+            "Pharmacologic Management": "First-line: Vitamin B12 supplementation (oral or IM injections); Alternatives: Cyanocobalamin nasal spray",
+            "Non-Pharmacologic Management": "Dietary counseling for B12-rich foods (meat, dairy, fortified cereals)",
+            "Patient Education": "Lifelong supplementation may be needed if due to malabsorption; monitor neurologic symptoms",
+            "Other Considerations": ""
+          },
+          "images": []
+        },
+        {
+          "id": "anemia--folate-deficiency-anemia",
+          "condition": "Folate-Deficiency Anemia\n\nMACROcytic Anemia\nMEGAloblastic",
+          "cells": {
+            "Condition": "Folate-Deficiency Anemia\n\nMACROcytic Anemia\nMEGAloblastic",
+            "Definition / Overview": "Anemia due to insufficient folate affecting DNA synthesis",
+            "Diagnosis": "CBC (macrocytic anemia), low serum folate, normal B12",
+            "Clinical Presentation": "Fatigue, pallor, glossitis, mild neurologic symptoms absent",
+            "Pharmacologic Management": "First-line: Oral folic acid supplementation; Alternatives: Dietary folate intake",
+            "Non-Pharmacologic Management": "Eat folate-rich foods (leafy greens, legumes, fortified grains)",
+            "Patient Education": "Take daily until deficiency corrected, important in pregnancy for neural tube defect prevention",
+            "Other Considerations": "Folate deficiency is rare in developed countries due to food fortification"
+          },
+          "images": []
+        },
+        {
+          "id": "anemia--anemia-of-chronic-disease-inflammatory-a",
+          "condition": "Anemia of Chronic Disease (Inflammatory Anemia)\nMICROcytic Anemia",
+          "cells": {
+            "Condition": "Anemia of Chronic Disease (Inflammatory Anemia)\nMICROcytic Anemia",
+            "Definition / Overview": "Anemia associated with chronic inflammation, infection, or malignancy",
+            "Diagnosis": "CBC (normocytic or microcytic), low serum iron, low TIBC, normal/high ferritin",
+            "Clinical Presentation": "Fatigue, pallor; usually mild",
+            "Pharmacologic Management": "Treat underlying disease; Erythropoiesis-stimulating agents (ESAs) if severe; transfusions if needed",
+            "Non-Pharmacologic Management": "Manage chronic condition; optimize nutrition",
+            "Patient Education": "Educate about underlying illness, monitor Hgb and iron studies, ESAs may require monitoring for hypertension or thromboembolism",
+            "Other Considerations": ""
+          },
+          "images": []
+        },
+        {
+          "id": "anemia--aplastic-anemia",
+          "condition": "Aplastic Anemia",
+          "cells": {
+            "Condition": "Aplastic Anemia",
+            "Definition / Overview": "Bone marrow failure causing pancytopenia",
+            "Diagnosis": "CBC (pancytopenia), bone marrow biopsy (hypocellular)",
+            "Clinical Presentation": "Fatigue, pallor, bleeding/bruising, infections",
+            "Pharmacologic Management": "First-line: Immunosuppressive therapy (ATG + Cyclosporine); Alternatives: Hematopoietic stem cell transplant if eligible; transfusions",
+            "Non-Pharmacologic Management": "Supportive care: infection prevention, bleeding precautions",
+            "Patient Education": "Lifelong follow-up; educate on infection risk, avoid medications/agents that suppress marrow",
+            "Other Considerations": ""
+          },
+          "images": []
+        },
+        {
+          "id": "anemia--hemolytic-anemia",
+          "condition": "Hemolytic Anemia",
+          "cells": {
+            "Condition": "Hemolytic Anemia",
+            "Definition / Overview": "Premature destruction of RBCs",
+            "Diagnosis": "CBC (anemia, reticulocytosis), elevated LDH, bilirubin, low haptoglobin, Coombs test if autoimmune",
+            "Clinical Presentation": "Fatigue, jaundice, dark urine, splenomegaly",
+            "Pharmacologic Management": "First-line: Corticosteroids for autoimmune; Alternatives: Immunosuppressants, Rituximab, Splenectomy, transfusions",
+            "Non-Pharmacologic Management": "Avoid triggers (for G6PD deficiency: fava beans, certain drugs)",
+            "Patient Education": "Educate about signs of hemolysis, infection precautions, adherence to medications",
+            "Other Considerations": ""
+          },
+          "images": []
+        },
+        {
+          "id": "anemia--sickle-cell-anemia",
+          "condition": "Sickle Cell Anemia",
+          "cells": {
+            "Condition": "Sickle Cell Anemia",
+            "Definition / Overview": "Genetic hemoglobinopathy causing RBC sickling",
+            "Diagnosis": "Hemoglobin electrophoresis, CBC, peripheral smear",
+            "Clinical Presentation": "Pain crises, fatigue, pallor, jaundice, splenomegaly, vaso-occlusive complications",
+            "Pharmacologic Management": "First-line: Hydroxyurea; Alternatives: L-glutamine, chronic transfusions, bone marrow transplant",
+            "Non-Pharmacologic Management": "Pain management, hydration, infection prevention",
+            "Patient Education": "Vaccinations critical, recognize pain crises early, avoid triggers (cold, dehydration)",
+            "Other Considerations": ""
+          },
+          "images": []
+        },
+        {
+          "id": "anemia--thalassemia-alpha-beta",
+          "condition": "Thalassemia (Alpha/Beta)\nMicrocyctic \nMICROcytic Anemia",
+          "cells": {
+            "Condition": "Thalassemia (Alpha/Beta)\nMicrocyctic \nMICROcytic Anemia",
+            "Definition / Overview": "Genetic disorder causing decreased globin chain synthesis",
+            "Diagnosis": "Low Hgb (less than 12 or 13) \n low MCV (less than 80; microcytic), \nCBC (microcytosis), hemoglobin electrophoresis, genetic testing",
+            "Clinical Presentation": "Fatigue, pallor, skeletal changes in severe cases",
+            "Pharmacologic Management": "First-line: Regular transfusions for severe disease; Alternatives: Iron chelation therapy, Hydroxyurea, stem cell transplant",
+            "Non-Pharmacologic Management": "Monitor growth/development, avoid iron overload",
+            "Patient Education": "Educate about transfusion schedules, iron overload management, routine follow-up",
+            "Other Considerations": ""
+          },
+          "images": []
+        },
+        {
+          "id": "anemia--anemia-in-chronic-kidney-disease",
+          "condition": "Anemia in Chronic Kidney Disease",
+          "cells": {
+            "Condition": "Anemia in Chronic Kidney Disease",
+            "Definition / Overview": "Anemia secondary to reduced erythropoietin production",
+            "Diagnosis": "CBC (normocytic anemia), low EPO, elevated creatinine/BUN",
+            "Clinical Presentation": "Fatigue, pallor, dyspnea",
+            "Pharmacologic Management": "First-line: Erythropoiesis-stimulating agents (ESAs) with iron supplementation; Alternatives: transfusions if severe",
+            "Non-Pharmacologic Management": "Optimize CKD management, dialysis support",
+            "Patient Education": "Monitor Hgb, iron studies, blood pressure; educate about ESA therapy and potential side effects",
+            "Other Considerations": ""
+          },
+          "images": []
+        },
+        {
+          "id": "anemia--severe-anemia",
+          "condition": "Severe Anemia",
+          "cells": {
+            "Condition": "Severe Anemia",
+            "Definition / Overview": "Refer to hematologist or hospitalization IMMEDIATELY",
+            "Diagnosis": "Hgb < 8 g/dL or Hct < 30% + symptomatic \nChronic pts with acute exacerbations",
+            "Clinical Presentation": "Dyspnea, fatigue, chest pain, dizziness",
+            "Pharmacologic Management": "Hospital",
+            "Non-Pharmacologic Management": "",
+            "Patient Education": "",
+            "Other Considerations": ""
+          },
+          "images": []
+        },
+        {
+          "id": "anemia--life-threatening-anemia",
+          "condition": "Life-threatening Anemia",
+          "cells": {
+            "Condition": "Life-threatening Anemia",
+            "Definition / Overview": "",
+            "Diagnosis": "Hgb <6-7 g/dL or Hct <30%; hemodynamic instability \nAcute hemorrhage (ICU)",
+            "Clinical Presentation": "Hypotension, pallor, cold/clammy skin, abdominal bruising, thready pulse, tachycardia, dyspnea, altered mental status \nRisk for organ failure (ICU)",
+            "Pharmacologic Management": "Immediate referral to ED \n\nBlood transfusion + fluid resuscitation + potential for procedure or intervention \nReferral to hematology once stable",
+            "Non-Pharmacologic Management": "",
+            "Patient Education": "",
+            "Other Considerations": ""
+          },
+          "images": []
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "tick-borne-diseases",
+      "title": "Tick-Borne Diseases",
+      "columns": [
+        "Condition",
+        "Definition / Overview",
+        "Diagnosis",
+        "Clinical Presentation",
+        "Pharmacologic Management",
+        "Non-Pharmacologic Management",
+        "Patient Education"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "tick-borne-diseases--lyme-disease",
+          "condition": "Lyme Disease",
+          "cells": {
+            "Condition": "Lyme Disease",
+            "Definition / Overview": "Bacterial infection caused by Borrelia burgdorferi, transmitted by Ixodes scapularis (deer tick)",
+            "Diagnosis": "Clinical (erythema migrans, exposure history), Two-step serology (ELISA → Western blot)",
+            "Clinical Presentation": "Early localized: erythema migrans (“bull’s-eye”), fever, malaise. Disseminated: multiple rashes, neurologic (Bell’s palsy, meningitis), cardiac (conduction abnormalities), musculoskeletal (arthritis)",
+            "Pharmacologic Management": "First-line: Doxycycline; Alternatives: Amoxicillin (children, pregnancy), Cefuroxime",
+            "Non-Pharmacologic Management": "Tick avoidance (protective clothing, repellents), prompt tick removal",
+            "Patient Education": "Check for ticks after outdoor exposure, remove ticks promptly, monitor for rash/fever, complete antibiotic course"
+          },
+          "images": [
+            {
+              "file": "/images/tick-borne-diseases-lyme-disease-1.jpg",
+              "alt": "Lyme disease - Wikipedia",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "tick-borne-diseases--rocky-mountain-spotted-fever-rmsf",
+          "condition": "Rocky Mountain Spotted Fever (RMSF)",
+          "cells": {
+            "Condition": "Rocky Mountain Spotted Fever (RMSF)",
+            "Definition / Overview": "Bacterial rickettsial infection caused by Rickettsia rickettsii, transmitted by Dermacentor and other ticks",
+            "Diagnosis": "Clinical (fever, rash, exposure history), Serology (IgM/IgG), PCR or biopsy if needed",
+            "Clinical Presentation": "Early: fever, headache, myalgia, maculopapular rash on wrists/ankles; Late: petechiae, CNS involvement, multiorgan failure",
+            "Pharmacologic Management": "First-line: Doxycycline (all ages); Alternatives: Chloramphenicol if doxycycline contraindicated",
+            "Non-Pharmacologic Management": "Tick avoidance, prompt removal",
+            "Patient Education": "Seek medical care immediately if fever/rash develops after tick exposure, early treatment is critical"
+          },
+          "images": [
+            {
+              "file": "/images/tick-borne-diseases-rocky-mountain-spotted-fever-r-1.jpg",
+              "alt": "Rocky Mountain Spotted Fever (RMSF) | CDC",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "tick-borne-diseases--anaplasmosis",
+          "condition": "Anaplasmosis",
+          "cells": {
+            "Condition": "Anaplasmosis",
+            "Definition / Overview": "Bacterial infection by Anaplasma phagocytophilum, transmitted by Ixodes ticks",
+            "Diagnosis": "PCR, serology, peripheral smear (morulae in granulocytes)",
+            "Clinical Presentation": "Fever, headache, malaise, myalgia, leukopenia, thrombocytopenia",
+            "Pharmacologic Management": "First-line: Doxycycline; Alternatives: Rifampin in pregnancy",
+            "Non-Pharmacologic Management": "Tick avoidance",
+            "Patient Education": "Monitor for high fever, seek early medical care, complete antibiotic course"
+          },
+          "images": []
+        },
+        {
+          "id": "tick-borne-diseases--ehrlichiosis",
+          "condition": "Ehrlichiosis",
+          "cells": {
+            "Condition": "Ehrlichiosis",
+            "Definition / Overview": "Bacterial infection by Ehrlichia chaffeensis, transmitted by Amblyomma (Lone Star) ticks",
+            "Diagnosis": "PCR, serology, peripheral smear (morulae in monocytes)",
+            "Clinical Presentation": "Fever, headache, malaise, myalgia, leukopenia, thrombocytopenia",
+            "Pharmacologic Management": "First-line: Doxycycline; Alternatives: Rifampin in pregnancy",
+            "Non-Pharmacologic Management": "Tick avoidance",
+            "Patient Education": "Early recognition critical, follow medication instructions carefully"
+          },
+          "images": [
+            {
+              "file": "/images/tick-borne-diseases-ehrlichiosis-1.jpg",
+              "alt": "Ehrlichia ewingii - Wikipedia",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "tick-borne-diseases--babesiosis",
+          "condition": "Babesiosis",
+          "cells": {
+            "Condition": "Babesiosis",
+            "Definition / Overview": "Parasitic infection by Babesia microti, transmitted by Ixodes ticks",
+            "Diagnosis": "Blood smear (intraerythrocytic parasites), PCR, serology",
+            "Clinical Presentation": "Fatigue, fever, hemolytic anemia, jaundice, dark urine; may be severe in immunocompromised",
+            "Pharmacologic Management": "First-line: Atovaquone + Azithromycin (mild-moderate), Clindamycin + Quinine (severe)",
+            "Non-Pharmacologic Management": "Tick avoidance",
+            "Patient Education": "Seek care if fever or hemolytic symptoms, prevent tick bites"
+          },
+          "images": [
+            {
+              "file": "/images/tick-borne-diseases-babesiosis-1.png",
+              "alt": "Babesiosis - Wikipedia",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "tick-borne-diseases--tularemia",
+          "condition": "Tularemia",
+          "cells": {
+            "Condition": "Tularemia",
+            "Definition / Overview": "Bacterial infection caused by Francisella tularensis, transmitted via tick bite, animal contact",
+            "Diagnosis": "Culture (caution), serology, PCR",
+            "Clinical Presentation": "Ulceroglandular: ulcer at bite site, regional lymphadenopathy; other forms: pneumonic, oculoglandular",
+            "Pharmacologic Management": "First-line: Streptomycin or Gentamicin; Alternatives: Doxycycline, Ciprofloxacin",
+            "Non-Pharmacologic Management": "Avoid tick bites, avoid handling wild animals without protection",
+            "Patient Education": "Use gloves when handling animals, report exposure to healthcare provider, complete antibiotic course"
+          },
+          "images": [
+            {
+              "file": "/images/tick-borne-diseases-tularemia-1.jpg",
+              "alt": "Ulceroglandular Tularemia from the Bite ...",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "tick-borne-diseases--rickettsia-parkeri-rickettsiosis",
+          "condition": "Rickettsia parkeri Rickettsiosis",
+          "cells": {
+            "Condition": "Rickettsia parkeri Rickettsiosis",
+            "Definition / Overview": "Mild spotted fever rickettsial infection, transmitted by Gulf Coast tick",
+            "Diagnosis": "Clinical (eschar, fever, rash), PCR or serology",
+            "Clinical Presentation": "Fever, headache, myalgia, inoculation eschar, sparse maculopapular or papulovesicular rash",
+            "Pharmacologic Management": "First-line: Doxycycline; Alternatives: Chloramphenicol if doxycycline contraindicated",
+            "Non-Pharmacologic Management": "Tick avoidance",
+            "Patient Education": "Early medical attention if fever or eschar develops, complete antibiotics"
+          },
+          "images": [
+            {
+              "file": "/images/tick-borne-diseases-rickettsia-parkeri-rickettsios-1.jpg",
+              "alt": "Spotted Fever Rickettsioses ...",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "tick-borne-diseases--heartland-virus-disease",
+          "condition": "Heartland Virus Disease",
+          "cells": {
+            "Condition": "Heartland Virus Disease",
+            "Definition / Overview": "Viral infection transmitted by Amblyomma ticks",
+            "Diagnosis": "PCR, serology",
+            "Clinical Presentation": "Fever, fatigue, leukopenia, thrombocytopenia",
+            "Pharmacologic Management": "Supportive care only (no antiviral therapy)",
+            "Non-Pharmacologic Management": "Tick avoidance",
+            "Patient Education": "Prevent tick bites, monitor symptoms, seek care if fever develops"
+          },
+          "images": []
+        },
+        {
+          "id": "tick-borne-diseases--bourbon-virus-disease",
+          "condition": "Bourbon Virus Disease",
+          "cells": {
+            "Condition": "Bourbon Virus Disease",
+            "Definition / Overview": "Viral infection transmitted by ticks",
+            "Diagnosis": "PCR, serology",
+            "Clinical Presentation": "Fever, fatigue, myalgia, leukopenia, thrombocytopenia",
+            "Pharmacologic Management": "Supportive care",
+            "Non-Pharmacologic Management": "Tick avoidance",
+            "Patient Education": "Avoid tick exposure, early medical evaluation for febrile illness"
+          },
+          "images": [
+            {
+              "file": "/images/tick-borne-diseases-bourbon-virus-disease-1.jpg",
+              "alt": "Bourbon virus through Ticks",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "tick-borne-diseases--colorado-tick-fever",
+          "condition": "Colorado Tick Fever",
+          "cells": {
+            "Condition": "Colorado Tick Fever",
+            "Definition / Overview": "Viral infection by coltivirus, transmitted by Dermacentor ticks",
+            "Diagnosis": "PCR, serology",
+            "Clinical Presentation": "Fever, headache, myalgia, photophobia, sometimes rash",
+            "Pharmacologic Management": "Supportive care",
+            "Non-Pharmacologic Management": "Tick avoidance",
+            "Patient Education": "Check for ticks, remove promptly, symptomatic care"
+          },
+          "images": [
+            {
+              "file": "/images/tick-borne-diseases-colorado-tick-fever-1.jpg",
+              "alt": "Rocky Mountain spotted fever ...",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "tick-borne-diseases--powassan-virus-disease",
+          "condition": "Powassan Virus Disease",
+          "cells": {
+            "Condition": "Powassan Virus Disease",
+            "Definition / Overview": "Viral infection transmitted by Ixodes ticks",
+            "Diagnosis": "PCR, serology",
+            "Clinical Presentation": "Fever, headache, vomiting, seizures, encephalitis; may cause long-term neurologic deficits",
+            "Pharmacologic Management": "Supportive care",
+            "Non-Pharmacologic Management": "Tick avoidance",
+            "Patient Education": "Avoid tick habitats, early evaluation for neurologic symptoms"
+          },
+          "images": [
+            {
+              "file": "/images/tick-borne-diseases-powassan-virus-disease-1.jpg",
+              "alt": "tick-borne Powassan virus ...",
+              "column": "Condition"
+            }
+          ]
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "dermotology",
+      "title": "Dermotology",
+      "columns": [
+        "Condition",
+        "Definition / Overview",
+        "Diagnosis",
+        "Clinical Presentation",
+        "Pharmacologic Management",
+        "Non-Pharmacologic Management",
+        "Patient Education"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "dermotology--cellulitis",
+          "condition": "Cellulitis",
+          "cells": {
+            "Condition": "Cellulitis",
+            "Definition / Overview": "Acute bacterial infection of dermis and subcutaneous tissue, usually from Strep pyogenes or S. aureus",
+            "Diagnosis": "Clinical; may culture wound if purulent; rule out abscess.",
+            "Clinical Presentation": "Erythema, warmth, tenderness, edema, poorly demarcated borders, may have fever.",
+            "Pharmacologic Management": "Mild: Cephalexin, Dicloxacillin; MRSA risk: TMP-SMX, Clindamycin, Doxycycline. Severe: IV Vancomycin.",
+            "Non-Pharmacologic Management": "Elevate affected limb, rest, warm compresses.",
+            "Patient Education": "Complete full antibiotic course; monitor for worsening/red streaking; prevent skin trauma."
+          },
+          "images": [
+            {
+              "file": "/images/dermotology-cellulitis-1.jpg",
+              "alt": "What You Need to Know About Cellulitis",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "dermotology--impetigo",
+          "condition": "Impetigo",
+          "cells": {
+            "Condition": "Impetigo",
+            "Definition / Overview": "Highly contagious superficial infection (usually S. aureus)",
+            "Diagnosis": "Clinical; culture if needed.",
+            "Clinical Presentation": "Honey-colored crusted lesions, often on face, around mouth/nose.",
+            "Pharmacologic Management": "Topical Mupirocin (Bactroban); oral Cephalexin if extensive.",
+            "Non-Pharmacologic Management": "Gentle cleansing with soap/water; avoid scratching.",
+            "Patient Education": "Good hand hygiene; keep lesions covered; avoid sharing towels or linens."
+          },
+          "images": [
+            {
+              "file": "/images/dermotology-impetigo-1.jpg",
+              "alt": "Siperstein Dermatology Group",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "dermotology--folliculitis",
+          "condition": "Folliculitis",
+          "cells": {
+            "Condition": "Folliculitis",
+            "Definition / Overview": "Inflammation of hair follicle",
+            "Diagnosis": "Clinical",
+            "Clinical Presentation": "Pustules centered on hair follicles; mild erythema, itching.",
+            "Pharmacologic Management": "Topical Clindamycin, Mupirocin, or Benzoyl peroxide; oral Dicloxacillin for recurrent cases.",
+            "Non-Pharmacologic Management": "Warm compresses, antibacterial wash.",
+            "Patient Education": "Avoid tight clothing and occlusive products; change razors frequently."
+          },
+          "images": [
+            {
+              "file": "/images/dermotology-folliculitis-1.jpg",
+              "alt": "Inflamed Hair Follicles (Folliculitis ...",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "dermotology--acne-vulgaris",
+          "condition": "Acne Vulgaris",
+          "cells": {
+            "Condition": "Acne Vulgaris",
+            "Definition / Overview": "Inflammation of sebaceous glands and follicles",
+            "Diagnosis": "Clinical",
+            "Clinical Presentation": "Comedones, papules, pustules, cysts on face, chest, back.",
+            "Pharmacologic Management": "Mild: Benzoyl peroxide, Topical retinoids (tretinoin), Topical clindamycin. Moderate: add Doxycycline or Minocycline. Severe: Isotretinoin (REMS).",
+            "Non-Pharmacologic Management": "Gentle cleansing twice daily, avoid picking.",
+            "Patient Education": "Educate about sun sensitivity, contraception w/ isotretinoin, 8–12 weeks for effect."
+          },
+          "images": [
+            {
+              "file": "/images/dermotology-acne-vulgaris-1.jpg",
+              "alt": "Acne vulgaris",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "dermotology--rosacea",
+          "condition": "Rosacea",
+          "cells": {
+            "Condition": "Rosacea",
+            "Definition / Overview": "Chronic facial flushing, erythema, and telangiectasias",
+            "Diagnosis": "Clinical; rule out lupus, acne",
+            "Clinical Presentation": "Central facial erythema, papules, pustules, burning/stinging.",
+            "Pharmacologic Management": "Topical metronidazole, Azelaic acid, Oral doxycycline for moderate cases.",
+            "Non-Pharmacologic Management": "Avoid triggers (heat, alcohol, spicy foods).",
+            "Patient Education": "Daily sunscreen; gentle cleansers; avoid corticosteroids on face."
+          },
+          "images": [
+            {
+              "file": "/images/dermotology-rosacea-1.jpg",
+              "alt": "Rosacea | Acne Rosacea | MedlinePlus",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "dermotology--atopic-dermatitis-eczema",
+          "condition": "Atopic Dermatitis (Eczema)",
+          "cells": {
+            "Condition": "Atopic Dermatitis (Eczema)",
+            "Definition / Overview": "Chronic relapsing inflammatory skin disorder",
+            "Diagnosis": "Clinical; IgE elevation possible",
+            "Clinical Presentation": "Pruritic, scaly, erythematous patches; flexural surfaces.",
+            "Pharmacologic Management": "Topical corticosteroids (hydrocortisone, triamcinolone); Antihistamines for itching; severe: Tacrolimus, Dupilumab.",
+            "Non-Pharmacologic Management": "Emollients multiple times daily; avoid hot showers, fragrances.",
+            "Patient Education": "Moisturize immediately after bathing; identify and avoid triggers."
+          },
+          "images": [
+            {
+              "file": "/images/dermotology-atopic-dermatitis-eczema-1.jpg",
+              "alt": "Atopic Dermatitis Pictures, Causes, vs ...",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "dermotology--contact-dermatitis",
+          "condition": "Contact Dermatitis",
+          "cells": {
+            "Condition": "Contact Dermatitis",
+            "Definition / Overview": "Inflammatory reaction from irritant or allergen exposure",
+            "Diagnosis": "Patch testing if allergic suspected",
+            "Clinical Presentation": "Erythema, vesicles, pruritus localized to contact area.",
+            "Pharmacologic Management": "Topical corticosteroids, Oral prednisone if severe; Antihistamines for itch.",
+            "Non-Pharmacologic Management": "Avoid offending agent, cold compresses.",
+            "Patient Education": "Wear gloves/protective gear; wash skin after exposure."
+          },
+          "images": [
+            {
+              "file": "/images/dermotology-contact-dermatitis-1.jpg",
+              "alt": "Contact Dermatitis: Causes, Symptoms ...",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "dermotology--psoriasis",
+          "condition": "Psoriasis",
+          "cells": {
+            "Condition": "Psoriasis",
+            "Definition / Overview": "Chronic autoimmune skin disease",
+            "Diagnosis": "Clinical; biopsy shows hyperkeratosis, parakeratosis",
+            "Clinical Presentation": "Silvery plaques on extensor surfaces, scalp; may have nail pitting.",
+            "Pharmacologic Management": "Mild: Topical corticosteroids, Vitamin D analogs (calcipotriene). Moderate-severe: Methotrexate, Adalimumab, Ustekinumab.",
+            "Non-Pharmacologic Management": "UV light therapy, stress reduction, weight control.",
+            "Patient Education": "Adherence critical; avoid abrupt steroid withdrawal; moisturize regularly."
+          },
+          "images": [
+            {
+              "file": "/images/dermotology-psoriasis-1.jpg",
+              "alt": "4 Telltale Symptoms of Psoriasis ...",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "dermotology--tinea-dermatophyte-infections",
+          "condition": "Tinea (Dermatophyte Infections)",
+          "cells": {
+            "Condition": "Tinea (Dermatophyte Infections)",
+            "Definition / Overview": "Fungal infections (e.g., tinea corporis, pedis, cruris)",
+            "Diagnosis": "KOH prep shows hyphae; culture if unclear",
+            "Clinical Presentation": "Circular, scaly, pruritic patches; distinct borders.",
+            "Pharmacologic Management": "Topical clotrimazole, Terbinafine; severe: Oral terbinafine or Fluconazole.",
+            "Non-Pharmacologic Management": "Keep area clean/dry, wear breathable fabrics.",
+            "Patient Education": "Treat all affected areas; avoid sharing shoes/towels."
+          },
+          "images": [
+            {
+              "file": "/images/dermotology-tinea-dermatophyte-infections-1.jpg",
+              "alt": "Tinea corporis (Body Ringworm) — DermNet",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "dermotology--onychomycosis",
+          "condition": "Onychomycosis",
+          "cells": {
+            "Condition": "Onychomycosis",
+            "Definition / Overview": "Fungal infection of nail plate",
+            "Diagnosis": "KOH prep, fungal culture",
+            "Clinical Presentation": "Thickened, discolored nails.",
+            "Pharmacologic Management": "Oral terbinafine (first-line); Itraconazole alternative.",
+            "Non-Pharmacologic Management": "Keep nails short/dry; disinfect nail tools.",
+            "Patient Education": "Treatment may take months; monitor liver enzymes with terbinafine."
+          },
+          "images": [
+            {
+              "file": "/images/dermotology-onychomycosis-1.jpg",
+              "alt": "Onychomycosis - Wikipedia",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "dermotology--herpes-simplex-virus-hsv",
+          "condition": "Herpes Simplex Virus (HSV)",
+          "cells": {
+            "Condition": "Herpes Simplex Virus (HSV)",
+            "Definition / Overview": "Recurrent viral skin/mucosal infection",
+            "Diagnosis": "PCR, Tzanck smear (multinucleated cells)",
+            "Clinical Presentation": "Painful grouped vesicles on erythematous base.",
+            "Pharmacologic Management": "Acyclovir, Valacyclovir, Famciclovir.",
+            "Non-Pharmacologic Management": "Warm compresses for comfort; avoid triggers.",
+            "Patient Education": "Start antivirals early; avoid sexual contact during outbreaks."
+          },
+          "images": [
+            {
+              "file": "/images/dermotology-herpes-simplex-virus-hsv-1.jpg",
+              "alt": "Herpes Simplex Virus (HSV) Condition ...",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "dermotology--herpes-zoster-shingles",
+          "condition": "Herpes Zoster (Shingles)",
+          "cells": {
+            "Condition": "Herpes Zoster (Shingles)",
+            "Definition / Overview": "Reactivation of varicella-zoster virus along dermatome",
+            "Diagnosis": "Clinical; PCR if uncertain",
+            "Clinical Presentation": "Painful vesicular rash in dermatomal pattern; may precede pain (prodrome).",
+            "Pharmacologic Management": "Acyclovir, Valacyclovir, or Famciclovir within 72 hrs; pain: Gabapentin.",
+            "Non-Pharmacologic Management": "Cool compresses, rest, analgesics.",
+            "Patient Education": "Get Zoster vaccine (≥50 yrs); cover lesions; avoid contact with immunocompromised."
+          },
+          "images": [
+            {
+              "file": "/images/dermotology-herpes-zoster-shingles-1.jpg",
+              "alt": "Herpes Zoster – Core EM",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "dermotology--scabies",
+          "condition": "Scabies",
+          "cells": {
+            "Condition": "Scabies",
+            "Definition / Overview": "Mite infestation of skin",
+            "Diagnosis": "Clinical; microscopic mite identification",
+            "Clinical Presentation": "Intense pruritus worse at night; burrows in webs of fingers.",
+            "Pharmacologic Management": "Permethrin 5% cream (neck down, repeat in 1 wk); Ivermectin PO for resistant cases.",
+            "Non-Pharmacologic Management": "Wash bedding/clothes hot water; treat household members.",
+            "Patient Education": "Itching may persist post-treatment; avoid skin-to-skin contact until cleared."
+          },
+          "images": [
+            {
+              "file": "/images/dermotology-scabies-1.jpg",
+              "alt": "Scabies | Dermatology and Skin Health ...",
+              "column": "Condition"
+            }
+          ]
+        },
+        {
+          "id": "dermotology--lice-pediculosis",
+          "condition": "Lice (Pediculosis)",
+          "cells": {
+            "Condition": "Lice (Pediculosis)",
+            "Definition / Overview": "Infestation of hair/scalp/body",
+            "Diagnosis": "Visual exam of nits/lice",
+            "Clinical Presentation": "Itching, excoriations, visible nits near scalp.",
+            "Pharmacologic Management": "Permethrin 1% lotion, Ivermectin lotion if resistant.",
+            "Non-Pharmacologic Management": "Wash clothing/bedding hot water; comb nits daily.",
+            "Patient Education": "Avoid sharing hats, combs, bedding; treat contacts."
+          },
+          "images": [
+            {
+              "file": "/images/dermotology-lice-pediculosis-1.jpg",
+              "alt": "Dandruff vs. Head Lice - Lice Clinics ...",
+              "column": "Condition"
+            }
+          ]
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "mental-health",
+      "title": "Mental Health",
+      "columns": [
+        "Condition",
+        "Definition / Overview",
+        "Diagnosis",
+        "Clinical Presentation",
+        "Pharmacologic Management",
+        "Non-Pharmacologic Management",
+        "Patient Education"
+      ],
+      "notes": [],
+      "rows": [
+        {
+          "id": "mental-health--major-depressive-disorder-mdd",
+          "condition": "Major Depressive Disorder (MDD)",
+          "cells": {
+            "Condition": "Major Depressive Disorder (MDD)",
+            "Definition / Overview": "Mood disorder characterized by persistent low mood, anhedonia, and impaired daily functioning",
+            "Diagnosis": "Clinical (DSM-5 criteria); rule out medical causes",
+            "Clinical Presentation": "Depressed mood, loss of interest, fatigue, sleep/appetite changes, guilt, thoughts of death",
+            "Pharmacologic Management": "First-line: SSRIs (Sertraline, Escitalopram, Fluoxetine); Alternatives: SNRIs (Venlafaxine, Duloxetine), Bupropion, Mirtazapine",
+            "Non-Pharmacologic Management": "Cognitive Behavioral Therapy (CBT), Interpersonal Therapy (IPT), lifestyle modifications",
+            "Patient Education": "Educate about medication adherence, onset of effect (4–6 weeks), monitor for suicidal thoughts, maintain routine and social support"
+          },
+          "images": []
+        },
+        {
+          "id": "mental-health--generalized-anxiety-disorder-gad",
+          "condition": "Generalized Anxiety Disorder (GAD)",
+          "cells": {
+            "Condition": "Generalized Anxiety Disorder (GAD)",
+            "Definition / Overview": "Chronic excessive worry and anxiety about multiple domains",
+            "Diagnosis": "Clinical (DSM-5 criteria), screening tools (GAD-7)",
+            "Clinical Presentation": "Restlessness, fatigue, difficulty concentrating, irritability, muscle tension, sleep disturbance",
+            "Pharmacologic Management": "First-line: SSRIs (Escitalopram, Paroxetine); Alternatives: SNRIs (Duloxetine, Venlafaxine), Buspirone, Benzodiazepines (short-term)",
+            "Non-Pharmacologic Management": "CBT, relaxation techniques, mindfulness, exercise",
+            "Patient Education": "Avoid abrupt discontinuation; use coping strategies; educate about delayed onset of effect for SSRIs/SNRIs"
+          },
+          "images": []
+        },
+        {
+          "id": "mental-health--panic-disorder",
+          "condition": "Panic Disorder",
+          "cells": {
+            "Condition": "Panic Disorder",
+            "Definition / Overview": "Recurrent unexpected panic attacks with concern about future attacks",
+            "Diagnosis": "Clinical (DSM-5), rule out cardiac/thyroid causes",
+            "Clinical Presentation": "Sudden intense fear, palpitations, chest pain, shortness of breath, dizziness, depersonalization",
+            "Pharmacologic Management": "First-line: SSRIs (Paroxetine, Sertraline); Alternatives: SNRIs, Benzodiazepines (short-term), Cognitive Behavioral Therapy",
+            "Non-Pharmacologic Management": "Exposure therapy, relaxation training, breathing exercises",
+            "Patient Education": "Educate about recognizing triggers, slow breathing techniques, medication adherence"
+          },
+          "images": []
+        },
+        {
+          "id": "mental-health--obsessive-compulsive-disorder-ocd",
+          "condition": "Obsessive-Compulsive Disorder (OCD)",
+          "cells": {
+            "Condition": "Obsessive-Compulsive Disorder (OCD)",
+            "Definition / Overview": "Recurrent obsessions (intrusive thoughts) and/or compulsions (ritual behaviors)",
+            "Diagnosis": "Clinical (DSM-5), Yale-Brown Obsessive Compulsive Scale (Y-BOCS)",
+            "Clinical Presentation": "Time-consuming obsessions, repetitive behaviors, distress",
+            "Pharmacologic Management": "First-line: SSRIs (Fluoxetine, Fluvoxamine, Sertraline) at higher doses; Alternatives: Clomipramine, adjunct CBT (Exposure and Response Prevention)",
+            "Non-Pharmacologic Management": "CBT with exposure and response prevention",
+            "Patient Education": "Emphasize adherence, gradual exposure strategies, avoid avoidance behaviors"
+          },
+          "images": []
+        },
+        {
+          "id": "mental-health--post-traumatic-stress-disorder-ptsd",
+          "condition": "Post-Traumatic Stress Disorder (PTSD)",
+          "cells": {
+            "Condition": "Post-Traumatic Stress Disorder (PTSD)",
+            "Definition / Overview": "Trauma-related disorder following exposure to life-threatening events",
+            "Diagnosis": "Clinical (DSM-5), PTSD Checklist (PCL-5)",
+            "Clinical Presentation": "Intrusive memories, flashbacks, nightmares, hyperarousal, avoidance, negative mood",
+            "Pharmacologic Management": "First-line: SSRIs (Sertraline, Paroxetine); Alternatives: SNRIs, Prazosin for nightmares",
+            "Non-Pharmacologic Management": "Trauma-focused CBT, Eye Movement Desensitization and Reprocessing (EMDR), mindfulness",
+            "Patient Education": "Encourage therapy participation, safe sleep, coping strategies for triggers"
+          },
+          "images": []
+        },
+        {
+          "id": "mental-health--bipolar-disorder-type-i-ii",
+          "condition": "Bipolar Disorder (Type I/II)",
+          "cells": {
+            "Condition": "Bipolar Disorder (Type I/II)",
+            "Definition / Overview": "Mood disorder with episodes of mania/hypomania alternating with depression",
+            "Diagnosis": "Clinical (DSM-5), mood charting",
+            "Clinical Presentation": "Mania: elevated mood, decreased need for sleep, distractibility; Depression: low mood, anhedonia",
+            "Pharmacologic Management": "First-line: Mood stabilizers (Lithium, Valproate, Lamotrigine); Alternatives: Atypical antipsychotics (Quetiapine, Olanzapine), adjunct SSRIs (careful)",
+            "Non-Pharmacologic Management": "Psychoeducation, routine sleep, monitoring mood",
+            "Patient Education": "Avoid alcohol/drugs, adherence critical, monitor for early mania signs, routine sleep and activity"
+          },
+          "images": []
+        },
+        {
+          "id": "mental-health--schizophrenia",
+          "condition": "Schizophrenia",
+          "cells": {
+            "Condition": "Schizophrenia",
+            "Definition / Overview": "Chronic psychotic disorder with hallucinations, delusions, and disorganized thinking",
+            "Diagnosis": "Clinical (DSM-5), rule out substance/medical causes",
+            "Clinical Presentation": "Hallucinations, delusions, disorganized speech/behavior, negative symptoms",
+            "Pharmacologic Management": "First-line: Atypical antipsychotics (Risperidone, Olanzapine, Aripiprazole); Alternatives: Typical antipsychotics (Haloperidol), adjunct therapy for negative symptoms",
+            "Non-Pharmacologic Management": "Social skills training, CBT for psychosis, supported employment",
+            "Patient Education": "Adherence to medication critical, monitor for side effects (metabolic, EPS), maintain social support"
+          },
+          "images": []
+        },
+        {
+          "id": "mental-health--attention-deficit-hyperactivity-disorder",
+          "condition": "Attention-Deficit/Hyperactivity Disorder (ADHD)",
+          "cells": {
+            "Condition": "Attention-Deficit/Hyperactivity Disorder (ADHD)",
+            "Definition / Overview": "Neurodevelopmental disorder with inattention, hyperactivity, and impulsivity",
+            "Diagnosis": "Clinical (DSM-5), rating scales (Conners, Vanderbilt)",
+            "Clinical Presentation": "Difficulty focusing, impulsivity, restlessness, forgetfulness",
+            "Pharmacologic Management": "First-line: Stimulants (Methylphenidate, Amphetamine salts); Alternatives: Atomoxetine, Guanfacine, Clonidine",
+            "Non-Pharmacologic Management": "Behavioral therapy, organizational skills, parent/teacher interventions",
+            "Patient Education": "Educate on adherence, monitor growth/heart rate, behavioral strategies at home/school"
+          },
+          "images": []
+        },
+        {
+          "id": "mental-health--insomnia-disorder",
+          "condition": "Insomnia Disorder",
+          "cells": {
+            "Condition": "Insomnia Disorder",
+            "Definition / Overview": "Difficulty initiating/maintaining sleep causing functional impairment",
+            "Diagnosis": "Clinical (DSM-5), sleep diary",
+            "Clinical Presentation": "Trouble falling asleep, staying asleep, non-restorative sleep, daytime fatigue",
+            "Pharmacologic Management": "First-line: Cognitive Behavioral Therapy for Insomnia (CBT-I); Alternatives: Z-drugs (Zolpidem, Zaleplon), Ramelteon, short-term Benzodiazepines",
+            "Non-Pharmacologic Management": "Sleep hygiene, regular sleep schedule, limit caffeine/alcohol",
+            "Patient Education": "Avoid long-term use of sedative meds, reinforce sleep hygiene, track sleep patterns"
+          },
+          "images": []
+        }
+      ],
+      "empty": false
+    },
+    {
+      "id": "nerve-disorders",
+      "title": "Nerve Disorders",
+      "columns": [],
+      "notes": [],
+      "rows": [],
+      "empty": true
+    }
+  ]
+}
