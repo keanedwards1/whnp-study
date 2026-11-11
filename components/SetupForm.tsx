@@ -116,10 +116,10 @@ export function SetupForm({ totalConditions }: { totalConditions: number }) {
       <section className="hero">
         <div className="grid items-end gap-8 lg:grid-cols-[1fr_auto]">
           <div className="max-w-2xl">
-            <h1 className="font-serif text-[2.1rem] font-semibold leading-[1.1] sm:text-5xl">Disorder Tables Quiz</h1>
+            <h1 className="font-serif text-[2.1rem] font-semibold leading-[1.1] sm:text-5xl">WHNP Board Prep</h1>
             <p className="mt-4 max-w-xl text-base leading-relaxed text-white/80 sm:text-lg">
               {quizzableSections.length} topics, {totalConditions} conditions. Questions have three options (A, B, C),
-              the format used on the NCC WHNP-BC exam.
+              matching NCC WHNP-BC exam format.
             </p>
           </div>
           <div className="flex flex-col gap-3 sm:flex-row lg:flex-col">
